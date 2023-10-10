@@ -1,0 +1,353 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.245486,
+            12.702258
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "NAME_TH": "ปั๊ม เชลล์ สาขาทับมา",
+          "OWNER": "บจก สินพูนผล จำกัด",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": " ",
+          "MOO": 4,
+          "EXPIRE": " ",
+          "TEL": " ",
+          "TYPE": "12.3.2(จ)",
+          "FEE": 10000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.702258,
+          "LON": 101.245486,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.226414,
+            12.718015999999999
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "NAME_TH": "ปั๊มน้ำมัน เชลล์",
+          "OWNER": "บจก อาร์ เอ็ม เซอร์วิส จำกัด",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "29/4",
+          "MOO": 4,
+          "EXPIRE": "18/4/66",
+          "TEL": "081-5701507",
+          "TYPE": "12.3.2(จ)",
+          "FEE": 10000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.718016,
+          "LON": 101.226414,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.246116,
+            12.702195
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "NAME_TH": "ปั๊ม PT สาขา 1",
+          "OWNER": "โอลิมปัส ออยล์ จำกัด",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "22/2",
+          "MOO": 4,
+          "EXPIRE": " ",
+          "TEL": " ",
+          "TYPE": "12.3.2(จ)",
+          "FEE": 10000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.702195,
+          "LON": 101.246116,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.223375,
+            12.719189000000002
+          ]
+        },
+        "properties": {
+          "FID": 3,
+          "NAME_TH": "ปั๊ม ซัสโก้",
+          "OWNER": "บจก ซัสโก้ จำกัด",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": 19,
+          "MOO": 5,
+          "EXPIRE": "1/82/65",
+          "TEL": "098-584 4478",
+          "TYPE": "12.3.2(จ)",
+          "FEE": 10000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.719189,
+          "LON": 101.223375,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.204189,
+            12.724654999999998
+          ]
+        },
+        "properties": {
+          "FID": 4,
+          "NAME_TH": "ปั๊ม ปตท",
+          "OWNER": "บูรพา ปิโตรเลียม จำกัด",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": " ",
+          "MOO": 5,
+          "EXPIRE": " ",
+          "TEL": " ",
+          "TYPE": "12.3.2(จ)",
+          "FEE": 10000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.724655,
+          "LON": 101.204189,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.241397,
+            12.714997999999998
+          ]
+        },
+        "properties": {
+          "FID": 5,
+          "NAME_TH": "ปั๊มทับมาปิโตรเลียม",
+          "OWNER": "หจก ทับมาปิโตรเลียม",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "104/7",
+          "MOO": 4,
+          "EXPIRE": "18/1/66",
+          "TEL": "080-6006566",
+          "TYPE": "12.3.2(จ)",
+          "FEE": 10000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.714998,
+          "LON": 101.241397,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.199574,
+            12.743652999999998
+          ]
+        },
+        "properties": {
+          "FID": 6,
+          "NAME_TH": "ปั๊ม PT สาขา 2",
+          "OWNER": "โอลิมปัส ออยล์ จำกัด",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "77/9",
+          "MOO": 5,
+          "EXPIRE": "77/9",
+          "TEL": "081-8018795",
+          "TYPE": "12.2.2",
+          "FEE": 4000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.743653,
+          "LON": 101.199574,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2138023,
+            12.730050870000001
+          ]
+        },
+        "properties": {
+          "FID": 7,
+          "NAME_TH": "สะสมแก๊ส",
+          "OWNER": "ประไพภัค ภัคบัลลังก์สิน",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "66/66",
+          "MOO": 8,
+          "EXPIRE": "24/5",
+          "TEL": "093 9369165",
+          "TYPE": " ",
+          "FEE": 0,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.73005087,
+          "LON": 101.2138023,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.223647,
+            12.702351999999998
+          ]
+        },
+        "properties": {
+          "FID": 8,
+          "NAME_TH": "สะสมแก๊ส",
+          "OWNER": "นายธวัชชัย สิงห์หา",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "133/38",
+          "MOO": 2,
+          "EXPIRE": "12/3/66",
+          "TEL": "065-949 6951",
+          "TYPE": "12.2.1(ก)",
+          "FEE": 2000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.702352,
+          "LON": 101.223647,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.221356,
+            12.70795983
+          ]
+        },
+        "properties": {
+          "FID": 9,
+          "NAME_TH": "ปั๊มหลอด",
+          "OWNER": "นางสาวราตรี สกุลวงษ์",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "85/17",
+          "MOO": 6,
+          "EXPIRE": "31/1/665",
+          "TEL": "081-1778754",
+          "TYPE": "อตร 12.3.2",
+          "FEE": 1000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.70795983,
+          "LON": 101.221356,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2372078,
+            12.69715723
+          ]
+        },
+        "properties": {
+          "FID": 10,
+          "NAME_TH": "พรพงศ์ศิริ การค้า",
+          "OWNER": "นายประคอง แสนศิริ",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "55/4",
+          "MOO": 6,
+          "EXPIRE": "19/3/66",
+          "TEL": "081-864 7122",
+          "TYPE": "12.3.2",
+          "FEE": 1000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.69715723,
+          "LON": 101.2372078,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.232033,
+            12.70686484
+          ]
+        },
+        "properties": {
+          "FID": 11,
+          "NAME_TH": "แนนปั๊มหลอด",
+          "OWNER": "นางสาวสุจิรา สุ่นสุนทร",
+          "BUSINESS": "กิจการตาม พรบ.ควบคุมน้ำมันเชื้อเพลิง",
+          "HOUSE_NO": "108/5",
+          "MOO": 2,
+          "EXPIRE": "22/4/66",
+          "TEL": "098-568 0059",
+          "TYPE": "12.3.2(ก)",
+          "FEE": 1000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.70686484,
+          "LON": 101.232033,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      }
+    ]
+  }

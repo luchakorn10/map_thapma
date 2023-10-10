@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.239981,
+            12.705494
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "NAME_TH": "อาคารเอนกประสงค์เทศบาลตำบลทับมา",
+          "NAME_EN": " ",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "OWNER": "เทศบาลตำบลทับมา",
+          "LAT": 12.705494,
+          "LON": 101.239981,
+          "NOTE": " ",
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.240249,
+            12.704009
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "NAME_TH": "โรงเรียนชุมชนวัดทับมา",
+          "NAME_EN": " ",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "OWNER": "โรงเรียนชุมชนวัดทับมา",
+          "LAT": 12.704009,
+          "LON": 101.240249,
+          "NOTE": " ",
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      }
+    ]
+  }

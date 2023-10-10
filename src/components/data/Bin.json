@@ -1,0 +1,1040 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2498706,
+            12.691905149999997
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านโมเดิร์น ซิตี้",
+          "LAT": 12.69190515,
+          "LON": 101.2498706
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.253006,
+            12.692072700000002
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "เดอะคาแนล คอนโด",
+          "LAT": 12.6920727,
+          "LON": 101.253006
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2547941,
+            12.702866389999997
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "โรงแรมเลตโก",
+          "LAT": 12.70286639,
+          "LON": 101.2547941
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2536472,
+            12.702614800000001
+          ]
+        },
+        "properties": {
+          "FID": 3,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านวาน่าลากูน่า",
+          "LAT": 12.7026148,
+          "LON": 101.2536472
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2241239,
+            12.695915329999997
+          ]
+        },
+        "properties": {
+          "FID": 4,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LOCATION": "เรือนนรี รีสอร์ท",
+          "LAT": 12.69591533,
+          "LON": 101.2241239
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2182438,
+            12.695749750000001
+          ]
+        },
+        "properties": {
+          "FID": 5,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LOCATION": "หมู่บ้านเพลินใจ 4",
+          "LAT": 12.69574975,
+          "LON": 101.2182438
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.264495,
+            12.69548646
+          ]
+        },
+        "properties": {
+          "FID": 6,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "ห้างแม็คโคร",
+          "LAT": 12.69548646,
+          "LON": 101.264495
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2063307,
+            12.73564493
+          ]
+        },
+        "properties": {
+          "FID": 7,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 5,
+          "MOO_TH": "บ้านเขาไผ่",
+          "LOCATION": "TC Sealing",
+          "LAT": 12.73564493,
+          "LON": 101.2063307
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2247049,
+            12.70102782
+          ]
+        },
+        "properties": {
+          "FID": 8,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LOCATION": "ไทยวัฒน์วิศวการทาง",
+          "LAT": 12.70102782,
+          "LON": 101.2247049
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2023709,
+            12.740292709999999
+          ]
+        },
+        "properties": {
+          "FID": 9,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 5,
+          "MOO_TH": "บ้านเขาไผ่",
+          "LOCATION": "บริษัท แซมซั่น คอนโทรลส์ จำกัด",
+          "LAT": 12.74029271,
+          "LON": 101.2023709
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2028897,
+            12.742266099999998
+          ]
+        },
+        "properties": {
+          "FID": 10,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 8,
+          "MOO_TH": "บ้านสะพานหิน",
+          "LOCATION": "VCS Asia",
+          "LAT": 12.7422661,
+          "LON": 101.2028897
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.208695,
+            12.73500066
+          ]
+        },
+        "properties": {
+          "FID": 11,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 8,
+          "MOO_TH": "บ้านสะพานหิน",
+          "LOCATION": "อริยะอะไหล่ยนต์",
+          "LAT": 12.73500066,
+          "LON": 101.208695
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2123608,
+            12.730763450000001
+          ]
+        },
+        "properties": {
+          "FID": 12,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 8,
+          "MOO_TH": "บ้านสะพานหิน",
+          "LOCATION": "บริษัท วิปเทล จำกัด",
+          "LAT": 12.73076345,
+          "LON": 101.2123608
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2129679,
+            12.729665540000001
+          ]
+        },
+        "properties": {
+          "FID": 13,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 8,
+          "MOO_TH": "บ้านสะพานหิน",
+          "LOCATION": "สตาร์เทค",
+          "LAT": 12.72966554,
+          "LON": 101.2129679
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2132247,
+            12.727703710000002
+          ]
+        },
+        "properties": {
+          "FID": 14,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 5,
+          "MOO_TH": "บ้านเขาไผ่",
+          "LOCATION": "Metrocat",
+          "LAT": 12.72770371,
+          "LON": 101.2132247
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2322543,
+            12.712959609999999
+          ]
+        },
+        "properties": {
+          "FID": 15,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "ตั้งน่ำเส็งหล่อดอกยาง",
+          "LAT": 12.71295961,
+          "LON": 101.2322543
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2287692,
+            12.7164194
+          ]
+        },
+        "properties": {
+          "FID": 16,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "หมู่บ้าน 365",
+          "LAT": 12.7164194,
+          "LON": 101.2287692
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2461387,
+            12.699259120000002
+          ]
+        },
+        "properties": {
+          "FID": 17,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านสวนวลีแลนด์ 4",
+          "LAT": 12.69925912,
+          "LON": 101.2461387
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2464557,
+            12.70013764
+          ]
+        },
+        "properties": {
+          "FID": 18,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านราชพฤกษ์ 8",
+          "LAT": 12.70013764,
+          "LON": 101.2464557
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2456183,
+            12.706793920000006
+          ]
+        },
+        "properties": {
+          "FID": 19,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 1,
+          "MOO_TH": "บ้านขนาบ",
+          "LOCATION": "หมู่บ้านเพชรรัตน์เลควิลล์",
+          "LAT": 12.70679392,
+          "LON": 101.2456183
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2651992,
+            12.691876989999999
+          ]
+        },
+        "properties": {
+          "FID": 20,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านสวนแก้ว",
+          "LAT": 12.69187699,
+          "LON": 101.2651992
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 21,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2628818,
+            12.69435321
+          ]
+        },
+        "properties": {
+          "FID": 21,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านเฮอริเทจ",
+          "LAT": 12.69435321,
+          "LON": 101.2628818
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 22,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.231886,
+            12.70686136
+          ]
+        },
+        "properties": {
+          "FID": 22,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "หมู่บ้านวาน่าวิลล์",
+          "LAT": 12.70686136,
+          "LON": 101.231886
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2438625,
+            12.70522185
+          ]
+        },
+        "properties": {
+          "FID": 23,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "บริษัท SMV อินเตอรไพรส์ จำกัด",
+          "LAT": 12.70522185,
+          "LON": 101.2438625
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2408802,
+            12.719562129999998
+          ]
+        },
+        "properties": {
+          "FID": 24,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "ตลาดขุนเชาว์",
+          "LAT": 12.71956213,
+          "LON": 101.2408802
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 25,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2346016,
+            12.7065248
+          ]
+        },
+        "properties": {
+          "FID": 25,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "หมู่บ้านภัทรภรณ์",
+          "LAT": 12.7065248,
+          "LON": 101.2346016
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 26,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2451337,
+            12.69335231
+          ]
+        },
+        "properties": {
+          "FID": 26,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านศักดิ์ทิพย์ ริเวอร์ไซส์",
+          "LAT": 12.69335231,
+          "LON": 101.2451337
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2234815,
+            12.715920310000001
+          ]
+        },
+        "properties": {
+          "FID": 27,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 6,
+          "MOO_TH": "บ้านหนองโพรง",
+          "LOCATION": "หมู่บ้านเติมทรัพย์ 2",
+          "LAT": 12.71592031,
+          "LON": 101.2234815
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.240943,
+            12.71788088
+          ]
+        },
+        "properties": {
+          "FID": 28,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "หมู่บ้านดิแอเรีย",
+          "LAT": 12.71788088,
+          "LON": 101.240943
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 29,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2295985,
+            12.72663812
+          ]
+        },
+        "properties": {
+          "FID": 29,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "หมู่บ้านวิลล่าปาร์ค 2",
+          "LAT": 12.72663812,
+          "LON": 101.2295985
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2237724,
+            12.725727229999999
+          ]
+        },
+        "properties": {
+          "FID": 30,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 8,
+          "MOO_TH": "บ้านสะพานหิน",
+          "LOCATION": "กรีนรีสอร์ท",
+          "LAT": 12.72572723,
+          "LON": 101.2237724
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 31,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.224974,
+            12.71964292
+          ]
+        },
+        "properties": {
+          "FID": 31,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "บ้านพักโรงน้ำปลา",
+          "LAT": 12.71964292,
+          "LON": 101.224974
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 32,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2395589,
+            12.70487877
+          ]
+        },
+        "properties": {
+          "FID": 32,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "โรงเรียนชุมชนทับมา",
+          "LAT": 12.70487877,
+          "LON": 101.2395589
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 33,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2387955,
+            12.705586850000001
+          ]
+        },
+        "properties": {
+          "FID": 33,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "โรงเรียนอนุบาลทับมา",
+          "LAT": 12.70558685,
+          "LON": 101.2387955
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 34,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2593994,
+            12.697565
+          ]
+        },
+        "properties": {
+          "FID": 34,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "ศูนย์รถโตโยต้า",
+          "LAT": 12.697565,
+          "LON": 101.2593994
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 35,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2573202,
+            12.698402870000002
+          ]
+        },
+        "properties": {
+          "FID": 35,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "ศูนย์รถนิสสัน",
+          "LAT": 12.69840287,
+          "LON": 101.2573202
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 36,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23338,
+            12.71132489
+          ]
+        },
+        "properties": {
+          "FID": 36,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "ศูนย์ฟอร์ด",
+          "LAT": 12.71132489,
+          "LON": 101.23338
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 37,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2288734,
+            12.71192302
+          ]
+        },
+        "properties": {
+          "FID": 37,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "หมู่บ้านแกรนด์เพชรรัตน์",
+          "LAT": 12.71192302,
+          "LON": 101.2288734
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 38,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2316229,
+            12.73084859
+          ]
+        },
+        "properties": {
+          "FID": 38,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 7,
+          "MOO_TH": "บ้านเขาโบสถ์",
+          "LOCATION": "หมู่บ้านระยองการ์เด้น 2",
+          "LAT": 12.73084859,
+          "LON": 101.2316229
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 39,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2431734,
+            12.704579099999997
+          ]
+        },
+        "properties": {
+          "FID": 39,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LOCATION": "ศูนย์วอลโว",
+          "LAT": 12.7045791,
+          "LON": 101.2431734
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 40,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2266613,
+            12.705973380000001
+          ]
+        },
+        "properties": {
+          "FID": 40,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 6,
+          "MOO_TH": "บ้านหนองโพรง",
+          "LOCATION": "ตลาดหนองโพรง",
+          "LAT": 12.70597338,
+          "LON": 101.2266613
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 41,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2226543,
+            12.7067853
+          ]
+        },
+        "properties": {
+          "FID": 41,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 6,
+          "MOO_TH": "บ้านหนองโพรง",
+          "LOCATION": "หมู่บ้านริมธาร",
+          "LAT": 12.7067853,
+          "LON": 101.2226543
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 42,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2176965,
+            12.704325329999998
+          ]
+        },
+        "properties": {
+          "FID": 42,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LOCATION": "หมู่บ้านสวีทโฮม",
+          "LAT": 12.70432533,
+          "LON": 101.2176965
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 43,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2233419,
+            12.69258724
+          ]
+        },
+        "properties": {
+          "FID": 43,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LOCATION": "หมู่บ้านการเคหะ",
+          "LAT": 12.69258724,
+          "LON": 101.2233419
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 44,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2556247,
+            12.700901699999998
+          ]
+        },
+        "properties": {
+          "FID": 44,
+          "NAME_TH": "ขยะทั่วไป",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "บ.คลีน",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": "หมู่บ้านกัลปพฤกษ์",
+          "LAT": 12.7009017,
+          "LON": 101.2556247
+        }
+      }
+    ]
+  }

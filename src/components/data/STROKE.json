@@ -1,0 +1,464 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2393817,
+          12.69352574
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "FIRST_NAME": "นางสำเนียง",
+        "LAST_NAME": "วงษ์สูง",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 95,
+        "TEL": " ",
+        "NO_HOUSE": 31,
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "LAT": 12.69352574,
+        "LON": 101.2393817,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.232953,
+          12.693580790000002
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "FIRST_NAME": "นายสังเวียน",
+        "LAST_NAME": "เขตประดิษฐ์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 66,
+        "TEL": "081-4483353",
+        "NO_HOUSE": "6/1",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "LAT": 12.69358079,
+        "LON": 101.232953,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2211225,
+          12.692662499999999
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "FIRST_NAME": "นางกุลยาสิริ",
+        "LAST_NAME": "วีระกุล",
+        "ID_CARD": 3120600505204,
+        "BORN": "05 เมษายน 2498",
+        "OLD": 68,
+        "TEL": " ",
+        "NO_HOUSE": "126/151",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "LAT": 12.6926625,
+        "LON": 101.2211225,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2355273,
+          12.72671502
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "FIRST_NAME": "นายนัทธี",
+        "LAST_NAME": "ดังก้อง",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 50,
+        "TEL": " ",
+        "NO_HOUSE": "91/3",
+        "ID_MOO": 4,
+        "MOO_NAMET": "บ้านทับมา",
+        "LAT": 12.72671502,
+        "LON": 101.2355273,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2581478,
+          12.69466996
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "FIRST_NAME": "จ.อ.เสริม",
+        "LAST_NAME": "รอดสนธ์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 80,
+        "TEL": " ",
+        "NO_HOUSE": "14/1",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "LAT": 12.69466996,
+        "LON": 101.2581478,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2390181,
+          12.71335224
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "FIRST_NAME": "นายพุฒ",
+        "LAST_NAME": "เกษรศิริ",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 88,
+        "TEL": "089-7483265",
+        "NO_HOUSE": "86/1",
+        "ID_MOO": 4,
+        "MOO_NAMET": "บ้านทับมา",
+        "LAT": 12.71335224,
+        "LON": 101.2390181,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2367856,
+          12.735995760000002
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "FIRST_NAME": "นางแจง",
+        "LAST_NAME": "ดังก้อง",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 72,
+        "TEL": "063-8603242",
+        "NO_HOUSE": "141/1",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "LAT": 12.73599576,
+        "LON": 101.2367856,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2316319,
+          12.73630385
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "FIRST_NAME": "นายสง่า",
+        "LAST_NAME": "เผือกทองคำ",
+        "ID_CARD": 3210100231902,
+        "BORN": "01 มกราคม 2481",
+        "OLD": 85,
+        "TEL": " ",
+        "NO_HOUSE": "134/2",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "LAT": 12.73630385,
+        "LON": 101.2316319,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2488425,
+          12.697285189999997
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "FIRST_NAME": "นางสนอม",
+        "LAST_NAME": "ทองแฉล้ม",
+        "ID_CARD": 3620200431624,
+        "BORN": "30 พฤศจิกายน 2497",
+        "OLD": 68,
+        "TEL": " ",
+        "NO_HOUSE": 45,
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "LAT": 12.69728519,
+        "LON": 101.2488425,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2264848,
+          12.740353090000001
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "FIRST_NAME": "เสนาะ",
+        "LAST_NAME": "พงษ์นาวิน",
+        "ID_CARD": 3210100231031,
+        "BORN": "04 พฤษภาคม 2504",
+        "OLD": 62,
+        "TEL": "088-2570010",
+        "NO_HOUSE": 127,
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "LAT": 12.74035309,
+        "LON": 101.2264848,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2502496,
+          12.708650399999996
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "FIRST_NAME": "นายวิโรจน์",
+        "LAST_NAME": "รักสกุล",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 58,
+        "TEL": "080-8307513",
+        "NO_HOUSE": "35/23",
+        "ID_MOO": 1,
+        "MOO_NAMET": "บ้านขนาบ",
+        "LAT": 12.7086504,
+        "LON": 101.2502496,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.257473,
+          12.693533040000002
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "FIRST_NAME": "ดา",
+        "LAST_NAME": "ใจตั้ง",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 92,
+        "TEL": "081-6832427",
+        "NO_HOUSE": "17/4",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "LAT": 12.69353304,
+        "LON": 101.257473,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2222811,
+          12.701210870000002
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "FIRST_NAME": "นายเสน่ห์",
+        "LAST_NAME": "จันทะวี",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 72,
+        "TEL": "086-4554795",
+        "NO_HOUSE": "133/1",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "LAT": 12.70121087,
+        "LON": 101.2222811,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2362716,
+          12.71550311
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "FIRST_NAME": "ยุภาพร",
+        "LAST_NAME": "อัมภรัตน์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 43,
+        "TEL": "089-0018018",
+        "NO_HOUSE": "36/12",
+        "ID_MOO": 4,
+        "MOO_NAMET": "บ้านทับมา",
+        "LAT": 12.71550311,
+        "LON": 101.2362716,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2326718,
+          12.692832769999999
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "FIRST_NAME": "แฉล้ม",
+        "LAST_NAME": "ละมัย",
+        "ID_CARD": 3210100256671,
+        "BORN": "01 มกราคม 2487",
+        "OLD": 79,
+        "TEL": "082-4705493",
+        "NO_HOUSE": "121/1",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "LAT": 12.69283277,
+        "LON": 101.2326718,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.249788,
+          12.70954555
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "FIRST_NAME": "ขวัญใจ",
+        "LAST_NAME": "มรกต",
+        "ID_CARD": 3210500432328,
+        "BORN": "01 มกราคม 2496",
+        "OLD": 70,
+        "TEL": "097-0074721",
+        "NO_HOUSE": "38/3",
+        "ID_MOO": 1,
+        "MOO_NAMET": "บ้านขนาบ",
+        "LAT": 12.70954555,
+        "LON": 101.249788,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2579684,
+          12.71134998
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "FIRST_NAME": "รัชนีวรรณ",
+        "LAST_NAME": "วงษ์สิงห์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 72,
+        "TEL": "089-4221856",
+        "NO_HOUSE": "15/6",
+        "ID_MOO": 1,
+        "MOO_NAMET": "บ้านขนาบ",
+        "LAT": 12.71134998,
+        "LON": 101.2579684,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    }
+  ]
+}

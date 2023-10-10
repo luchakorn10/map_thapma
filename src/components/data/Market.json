@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.240601,
+            12.717551999999998
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "NAME_TH": "ตลาดนัดป้าสว่าง",
+          "OWNER": "นางสว่าง เกษรศิริ",
+          "BUSINESS": "ตลาดนัด",
+          "HOUSE_NO": 75,
+          "MOO": 4,
+          "EXPIRE": -105235200000,
+          "TEL": "080 783 1153",
+          "TYPE": "ตลาด",
+          "FEE": 2000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.717552,
+          "LON": 101.240601,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2061433,
+            12.73623342
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "NAME_TH": "ตลาดป้าสำเนาว์",
+          "OWNER": "สำเนาว์ หวลคำนึง",
+          "BUSINESS": "ตลาดนัด",
+          "HOUSE_NO": 85,
+          "MOO": 4,
+          "EXPIRE": null,
+          "TEL": "086-894 9874",
+          "TYPE": "ตลาด",
+          "FEE": 2000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.73623342,
+          "LON": 101.2061433,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.240707,
+            12.719647
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "NAME_TH": "ตลาดท่านขุน",
+          "OWNER": "นายขุนเชาว์ สวัสดิล้น",
+          "BUSINESS": "ตลาดนัด",
+          "HOUSE_NO": "111/2",
+          "MOO": 4,
+          "EXPIRE": null,
+          "TEL": "089-754 6679",
+          "TYPE": "ตลาด",
+          "FEE": 2000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.719647,
+          "LON": 101.240707,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.226616,
+            12.705217999999999
+          ]
+        },
+        "properties": {
+          "FID": 3,
+          "NAME_TH": "ตลาดหนองโพรง",
+          "OWNER": "นายดรุณ เกษารัตน์",
+          "BUSINESS": "ตลาดนัด",
+          "HOUSE_NO": " ",
+          "MOO": 6,
+          "EXPIRE": null,
+          "TEL": "094-928 2969",
+          "TYPE": "ตลาด",
+          "FEE": 2000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.705218,
+          "LON": 101.226616,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.214909,
+            12.698161000000004
+          ]
+        },
+        "properties": {
+          "FID": 4,
+          "NAME_TH": "ตลาด ดิโอ โซน",
+          "OWNER": "บจก. พี เจ คอนโดเทล",
+          "BUSINESS": "ตลาดนัด",
+          "HOUSE_NO": "188/24",
+          "MOO": 2,
+          "EXPIRE": -125798400000,
+          "TEL": " ",
+          "TYPE": "ตลาด",
+          "FEE": 2000,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.698161,
+          "LON": 101.214909,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.241265,
+            12.713097999999999
+          ]
+        },
+        "properties": {
+          "FID": 5,
+          "NAME_TH": "ซูเปอบร์มาร์เก็ต สาขาทับมา",
+          "OWNER": "บริษัท บิ๊กซี ซูเปอร์มาร์เก็ต",
+          "BUSINESS": "ซูเปอร์มาร์เก็ต",
+          "HOUSE_NO": "99/53",
+          "MOO": 4,
+          "EXPIRE": null,
+          "TEL": "02-655 0666",
+          "TYPE": "12.15.2 กำจัดศัตรูพืช",
+          "FEE": 0,
+          "CUSTOMER": " ",
+          "LICENSE": " ",
+          "NOTE": " ",
+          "LAT": 12.713098,
+          "LON": 101.241265,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      }
+    ]
+  }

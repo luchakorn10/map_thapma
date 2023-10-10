@@ -1,0 +1,3485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2490005,
+          12.714357249999999
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "NAME_TH": " ",
+        "OWNER": "นายบุญชู  จันทร์หอม",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 1,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71435725,
+        "LON": 101.2490005,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2577446,
+          12.707399800000001
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "NAME_TH": " ",
+        "OWNER": "นางฤทัย เหมะสุทธินันท์",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 1,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": 40697,
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.7073998,
+        "LON": 101.2577446,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.247476,
+          12.7109873
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "NAME_TH": " ",
+        "OWNER": "นางวัจนา  วงษ์ศรี",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 1,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.7109873,
+        "LON": 101.247476,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2487523,
+          12.711554819999998
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวณราวดี  วงษ์ศรี",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "47/1",
+        "MOO": 1,
+        "EXPIRE": "16/3/66",
+        "TEL": "089-9394566",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71155482,
+        "LON": 101.2487523,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2466402,
+          12.714989699999999
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "NAME_TH": " ",
+        "OWNER": "นายชาญชัย นามจันทร์",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "66/3",
+        "MOO": 1,
+        "EXPIRE": "28/4/66",
+        "TEL": "080-0922994",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.7149897,
+        "LON": 101.2466402,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2615475,
+          12.704484440000002
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "NAME_TH": " ",
+        "OWNER": "นายสมจิตร  เทียบเทียม",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "2/1",
+        "MOO": 1,
+        "EXPIRE": "27/2/66",
+        "TEL": "087 1374 402",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70448444,
+        "LON": 101.2615475,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2327739,
+          12.694465
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "NAME_TH": " ",
+        "OWNER": "นางเรไร ปลกปลิด",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "4/48",
+        "MOO": 2,
+        "EXPIRE": "31/8/66",
+        "TEL": "087-138 2049",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.694465,
+        "LON": 101.2327739,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2329594,
+          12.6945095
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "NAME_TH": " ",
+        "OWNER": "นางเรณู สามบุญศรี",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "44/4",
+        "MOO": 2,
+        "EXPIRE": "23/9/66",
+        "TEL": "087-138 2049",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.6945095,
+        "LON": 101.2329594,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.241303,
+          12.701199739999998
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "NAME_TH": " ",
+        "OWNER": "นายเจริญ ปลดปลิด",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": 4,
+        "MOO": 2,
+        "EXPIRE": "23/10/66",
+        "TEL": "087-138 2049",
+        "TYPE": "9.6.",
+        "PAY": 1000,
+        "CUSTOMER": 40269,
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70119974,
+        "LON": 101.241303,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2320848,
+          12.69413408
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "NAME_TH": " ",
+        "OWNER": "นางสงุ่น คำผ่อง",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": 2,
+        "MOO": 2,
+        "EXPIRE": "18/1/66",
+        "TEL": "093-454 9885",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69413408,
+        "LON": 101.2320848,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2298201,
+          12.693974089999998
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "NAME_TH": " ",
+        "OWNER": "นายคชนันต์  บุญชยานุรักษ์",
+        "ESTABLISHM": "AB อพาร์ทเมนท์",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69397409,
+        "LON": 101.2298201,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2299841,
+          12.69519708
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "NAME_TH": " ",
+        "OWNER": "นายชวลิต  สว่างรุ่ง",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69519708,
+        "LON": 101.2299841,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.226665,
+          12.696380339999997
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "NAME_TH": " ",
+        "OWNER": "นางชวนชม  อ่อนแสง",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69638034,
+        "LON": 101.226665,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2366317,
+          12.692761609999998
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "NAME_TH": " ",
+        "OWNER": "นางวัลภา  สนั่นไหว",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "68/3",
+        "MOO": 2,
+        "EXPIRE": "16/4/66",
+        "TEL": "087-6172017",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": "25/9-10 ม.2",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69276161,
+        "LON": 101.2366317,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2269821,
+          12.696417970000002
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "NAME_TH": " ",
+        "OWNER": "นางสัมฤทธิ์  จันทบุตร",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69641797,
+        "LON": 101.2269821,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2219848,
+          12.705197799999999
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวทักษิณา  พึ่งพา",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "104/7",
+        "MOO": 2,
+        "EXPIRE": "25/3/66",
+        "TEL": "081-8648017",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.7051978,
+        "LON": 101.2219848,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2279656,
+          12.694143750000002
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวนิตยา  วงษ์น้อย",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "116/1",
+        "MOO": 2,
+        "EXPIRE": "28/4/66",
+        "TEL": "085-1300409",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69414375,
+        "LON": 101.2279656,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2316868,
+          12.701379
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "NAME_TH": " ",
+        "OWNER": "นางสำเนียง  มากหลาย",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.701379,
+        "LON": 101.2316868,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2337014,
+          12.693187869999997
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "NAME_TH": " ",
+        "OWNER": "นางสุวิมล  คงทน",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69318787,
+        "LON": 101.2337014,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2200698,
+          12.706122579999999
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "NAME_TH": " ",
+        "OWNER": "นายธวัช สงสาร",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "100/2",
+        "MOO": 2,
+        "EXPIRE": "25/3/66",
+        "TEL": "081 5893121",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70612258,
+        "LON": 101.2200698,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2325638,
+          12.693417829999998
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "NAME_TH": " ",
+        "OWNER": "นายเจริญ ปลดปลิด",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69341783,
+        "LON": 101.2325638,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2340425,
+          12.69349279
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "NAME_TH": " ",
+        "OWNER": "นายชูชาติ  คงทน",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "1/2",
+        "MOO": 2,
+        "EXPIRE": "16/2/65",
+        "TEL": "081 176 5520",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": "12/21-29,30-35,38,41-50,78",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69349279,
+        "LON": 101.2340425,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2347878,
+          12.693729380000002
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "NAME_TH": " ",
+        "OWNER": "นายดำรง  เสงี่ยมใจ",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": 15,
+        "MOO": 2,
+        "EXPIRE": "5/1/66",
+        "TEL": "099 184 6979",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69372938,
+        "LON": 101.2347878,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2325701,
+          12.704778839999998
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "NAME_TH": " ",
+        "OWNER": "นายวุฒิเดช  มงคลศรี",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า ทับทิมวิลเลจ",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70477884,
+        "LON": 101.2325701,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2535601,
+          12.69459521
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "NAME_TH": " ",
+        "OWNER": "นายถวิล  ละมัย",
+        "ESTABLISHM": "ห้องเช่า/บ้านเช่า",
+        "BUSINESS": "ห้องเช่า/บ้านเช่า",
+        "HOUSE_NO": "116/9",
+        "MOO": 2,
+        "EXPIRE": "7/4/66",
+        "TEL": "087-1320105",
+        "TYPE": "9.6.1",
+        "PAY": 1000,
+        "CUSTOMER": "116/39-42 44 116/74-80 116/106 108 109",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69459521,
+        "LON": 101.2535601,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.224693,
+          12.691855440000001
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "NAME_TH": " ",
+        "OWNER": "นางสัมพันธ์ เปาอินทร์",
+        "ESTABLISHM": "สัมพันธ์ บิวตี้",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": " ",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69185544,
+        "LON": 101.224693,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2475857,
+          12.694784039999998
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "NAME_TH": " ",
+        "OWNER": "นางจีรภัทร์  นามสงสาร",
+        "ESTABLISHM": "จีรภัทร์ซาลอน",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": " ",
+        "MOO": 3,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69478404,
+        "LON": 101.2475857,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2527451,
+          12.69525502
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "NAME_TH": " ",
+        "OWNER": "นางชลธิชา  ชูเชิด",
+        "ESTABLISHM": "ร้านแต่งผม",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": "23/3",
+        "MOO": 3,
+        "EXPIRE": "25/3/66",
+        "TEL": "089-8029132",
+        "TYPE": "9.11.1",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69525502,
+        "LON": 101.2527451,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.23386,
+          12.692750960000001
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "NAME_TH": " ",
+        "OWNER": "นางอรอุมา  เมตตา",
+        "ESTABLISHM": "ร้านแจ๊คแฮร์สไตล์",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": "12/5",
+        "MOO": 3,
+        "EXPIRE": "27/10/66",
+        "TEL": "089-5411075",
+        "TYPE": "9.11.1",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69275096,
+        "LON": 101.23386,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2533778,
+          12.708824899999998
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "NAME_TH": " ",
+        "OWNER": "นายโอภาส  วงษ์สูง",
+        "ESTABLISHM": "ร้านเสริมนุสรา",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": " ",
+        "MOO": 3,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.7088249,
+        "LON": 101.2533778,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2338781,
+          12.7293021
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "NAME_TH": " ",
+        "OWNER": "นางพัชนี หงษาคำ",
+        "ESTABLISHM": "ร้านแต่งผม",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": " ",
+        "MOO": 4,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.7293021,
+        "LON": 101.2338781,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2397115,
+          12.71948487
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวจุรีรัตน์ คูหารัตน์",
+        "ESTABLISHM": "ร้านแต่งผม",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": " ",
+        "MOO": 4,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71948487,
+        "LON": 101.2397115,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2396885,
+          12.69897565
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "NAME_TH": " ",
+        "OWNER": "นางกนกภรณ์  ศิริรมย์",
+        "ESTABLISHM": "ร้านแต่งผม",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": "53/3",
+        "MOO": 6,
+        "EXPIRE": "25/4/66",
+        "TEL": "090-7634369",
+        "TYPE": "9.11.1",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69897565,
+        "LON": 101.2396885,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2342186,
+          12.700068639999996
+        ]
+      },
+      "properties": {
+        "FID": 33,
+        "NAME_TH": " ",
+        "OWNER": "นางวารุณี  ขวัญบุรี",
+        "ESTABLISHM": "ออยบิวตี้",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": "62/2",
+        "MOO": 6,
+        "EXPIRE": "28/3/66",
+        "TEL": " ",
+        "TYPE": "9.11.1",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70006864,
+        "LON": 101.2342186,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2220674,
+          12.707598050000001
+        ]
+      },
+      "properties": {
+        "FID": 34,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวสุภาพร ดังก้อง",
+        "ESTABLISHM": "ร้านใบเตยบิวตี้",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": "95/18",
+        "MOO": 6,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70759805,
+        "LON": 101.2220674,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2494455,
+          12.711939229999999
+        ]
+      },
+      "properties": {
+        "FID": 35,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวกานดา ธนินธรดากุล",
+        "ESTABLISHM": "ร้านเสริมสวย",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": "46/3",
+        "MOO": 1,
+        "EXPIRE": "9/2/66",
+        "TEL": "095 5468983",
+        "TYPE": " 9.11.1",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71193923,
+        "LON": 101.2494455,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2371882,
+          12.728196420000002
+        ]
+      },
+      "properties": {
+        "FID": 36,
+        "NAME_TH": " ",
+        "OWNER": "นายคำเลียม มาตย์นอก",
+        "ESTABLISHM": "ร้านแต่งผม",
+        "BUSINESS": "ร้านเสริมสวย - ร้านตัดผม",
+        "HOUSE_NO": "96/3",
+        "MOO": 4,
+        "EXPIRE": "28/10/66",
+        "TEL": "081-258 1369",
+        "TYPE": "9.11.1",
+        "PAY": 350,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.72819642,
+        "LON": 101.2371882,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.223899,
+          12.695829000000002
+        ]
+      },
+      "properties": {
+        "FID": 37,
+        "NAME_TH": " ",
+        "OWNER": "เรือนนรี รีสอร์ท",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "111/17-18,21-29",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": "095-236-9624",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.695829,
+        "LON": 101.223899,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.252825,
+          12.692746999999999
+        ]
+      },
+      "properties": {
+        "FID": 38,
+        "NAME_TH": " ",
+        "OWNER": "โรงแรมวิวาห์รีสอร์ท",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "25/71",
+        "MOO": 3,
+        "EXPIRE": " ",
+        "TEL": "098-954 2639",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.692747,
+        "LON": 101.252825,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.254666,
+          12.702992000000002
+        ]
+      },
+      "properties": {
+        "FID": 39,
+        "NAME_TH": " ",
+        "OWNER": "โรงแรมเล็กซ์โก",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": " ",
+        "MOO": 3,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "ยกเลิก",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.702992,
+        "LON": 101.254666,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.234997,
+          12.717333000000002
+        ]
+      },
+      "properties": {
+        "FID": 40,
+        "NAME_TH": " ",
+        "OWNER": "สกายวิว   รีสอร์ท",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "38/17",
+        "MOO": 4,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.717333,
+        "LON": 101.234997,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.24147,
+          12.710788
+        ]
+      },
+      "properties": {
+        "FID": 41,
+        "NAME_TH": " ",
+        "OWNER": "บ้านพักอิงน้ำ",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "99/22",
+        "MOO": 4,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.710788,
+        "LON": 101.24147,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.238987,
+          12.694487999999998
+        ]
+      },
+      "properties": {
+        "FID": 42,
+        "NAME_TH": " ",
+        "OWNER": "โรงแรมริเซ่",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "20/12",
+        "MOO": 6,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.694488,
+        "LON": 101.238987,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2394288,
+          12.69621037
+        ]
+      },
+      "properties": {
+        "FID": 43,
+        "NAME_TH": " ",
+        "OWNER": "นายเกรียง เดชคุ้ม",
+        "ESTABLISHM": "เกาะแมรีสอร์ท",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "37/22",
+        "MOO": 6,
+        "EXPIRE": "18/3/66",
+        "TEL": "08-1440-9024",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69621037,
+        "LON": 101.2394288,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.224079,
+          12.743275
+        ]
+      },
+      "properties": {
+        "FID": 44,
+        "NAME_TH": " ",
+        "OWNER": "พักสบายรีสอร์ท",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "120/2",
+        "MOO": 7,
+        "EXPIRE": " ",
+        "TEL": "087-1429968",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.743275,
+        "LON": 101.224079,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.163827,
+          12.760428
+        ]
+      },
+      "properties": {
+        "FID": 45,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท นำแสง โฮม แอนด์ พร็อพเพอตี้ จำกัด",
+        "ESTABLISHM": "บริษัท นำแสง โฮม แอนด์ พร็อพเพอตี้ จำกัด",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "57/3",
+        "MOO": 8,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.760428,
+        "LON": 101.163827,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21561,
+          12.698251
+        ]
+      },
+      "properties": {
+        "FID": 46,
+        "NAME_TH": " ",
+        "OWNER": "โรงแรมฟิล",
+        "ESTABLISHM": " ",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "188/88",
+        "MOO": 2,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": "9.5.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.698251,
+        "LON": 101.21561,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2527121,
+          12.69275574
+        ]
+      },
+      "properties": {
+        "FID": 47,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวณพัฒน์ จีรวุฒิพล",
+        "ESTABLISHM": "วิวาร์รีสอร์ท",
+        "BUSINESS": "โรงแรม",
+        "HOUSE_NO": "25/71",
+        "MOO": 3,
+        "EXPIRE": "23/2/66",
+        "TEL": "098-954 2639",
+        "TYPE": "9.5.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69275574,
+        "LON": 101.2527121,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2313621,
+          12.731830070000003
+        ]
+      },
+      "properties": {
+        "FID": 48,
+        "NAME_TH": " ",
+        "OWNER": "ทิพพิมล เยื้อนหนูวงศ์",
+        "ESTABLISHM": "ซ่อม การปรับแต้ง",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "132/11",
+        "MOO": 7,
+        "EXPIRE": "12/3",
+        "TEL": "080 6438856",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.73183007,
+        "LON": 101.2313621,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.257693,
+          12.694586
+        ]
+      },
+      "properties": {
+        "FID": 49,
+        "NAME_TH": " ",
+        "OWNER": "เอสที ระยองการาจ",
+        "ESTABLISHM": "เอสที ระยองการาจ",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "16/1",
+        "MOO": 3,
+        "EXPIRE": "20/3",
+        "TEL": "089 3446422",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.694586,
+        "LON": 101.257693,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.197635,
+          12.745582999999998
+        ]
+      },
+      "properties": {
+        "FID": 50,
+        "NAME_TH": " ",
+        "OWNER": "บจก สแกนสยาม",
+        "ESTABLISHM": "ซ่อม ปรับแต่ง",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "77/10",
+        "MOO": 0,
+        "EXPIRE": "20/3",
+        "TEL": "092 2239518",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.745583,
+        "LON": 101.197635,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2404465,
+          12.71827613
+        ]
+      },
+      "properties": {
+        "FID": 51,
+        "NAME_TH": " ",
+        "OWNER": "บุญธรรม ทองอร่าม",
+        "ESTABLISHM": "ร้านซ่อมรถ",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "74/7",
+        "MOO": 4,
+        "EXPIRE": "10/7/64",
+        "TEL": "081 8132065",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71827613,
+        "LON": 101.2404465,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2359858,
+          12.72920754
+        ]
+      },
+      "properties": {
+        "FID": 52,
+        "NAME_TH": " ",
+        "OWNER": "จักรกฤษ วิชัยวัฒน์",
+        "ESTABLISHM": "ร้านซ่อมรถ/ขายอะไล่",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "98/16",
+        "MOO": 4,
+        "EXPIRE": "31/7/64",
+        "TEL": "091 7759786",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.72920754,
+        "LON": 101.2359858,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2173284,
+          12.69748034
+        ]
+      },
+      "properties": {
+        "FID": 53,
+        "NAME_TH": " ",
+        "OWNER": "เกียรติศักดิ์ อิศรางกูล ณ อยุธยา",
+        "ESTABLISHM": "อู่ Over Lap",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": " ",
+        "MOO": 0,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69748034,
+        "LON": 101.2173284,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.231983,
+          12.70123936
+        ]
+      },
+      "properties": {
+        "FID": 54,
+        "NAME_TH": " ",
+        "OWNER": "ธนพล เหลากลม",
+        "ESTABLISHM": "อู่ทับมาออโต้เพ้น์",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "69/8",
+        "MOO": 7,
+        "EXPIRE": "19/7/65",
+        "TEL": "086-1422256",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70123936,
+        "LON": 101.231983,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2313621,
+          12.731830070000003
+        ]
+      },
+      "properties": {
+        "FID": 55,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวทิพพิมล เยื้อนหนูวงศ์",
+        "ESTABLISHM": "จ.สุขเจริญช่วงล่าง",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "101/14",
+        "MOO": 7,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.73183007,
+        "LON": 101.2313621,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2492386,
+          12.697276040000002
+        ]
+      },
+      "properties": {
+        "FID": 56,
+        "NAME_TH": " ",
+        "OWNER": "นายเจ่ง บุญสุข",
+        "ESTABLISHM": "อู่ช่างประสิทธิ์",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": 44,
+        "MOO": 3,
+        "EXPIRE": "5/1/66",
+        "TEL": "086-8146481",
+        "TYPE": "7.4.2",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69727604,
+        "LON": 101.2492386,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2392618,
+          12.69027264
+        ]
+      },
+      "properties": {
+        "FID": 57,
+        "NAME_TH": " ",
+        "OWNER": "ขวัญชัย รุ่งเรือง",
+        "ESTABLISHM": "อู่รุ่งเรือง",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "28/13",
+        "MOO": 6,
+        "EXPIRE": "26/12/65",
+        "TEL": "092-4705333",
+        "TYPE": 7.1,
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69027264,
+        "LON": 101.2392618,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2435949,
+          12.695323050000002
+        ]
+      },
+      "properties": {
+        "FID": 58,
+        "NAME_TH": " ",
+        "OWNER": "นายสมนึก อินทรีย์",
+        "ESTABLISHM": "อู่รถ ซ่อม ปรับแต่ง",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "49/91",
+        "MOO": 3,
+        "EXPIRE": "30/3/66",
+        "TEL": "086-159 1994",
+        "TYPE": "7.3.2",
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69532305,
+        "LON": 101.2435949,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.257693,
+          12.694586
+        ]
+      },
+      "properties": {
+        "FID": 59,
+        "NAME_TH": " ",
+        "OWNER": "บจก เอสที ระยองการาจ 2011",
+        "ESTABLISHM": "การต่อ ประกอบ",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "16/1",
+        "MOO": 3,
+        "EXPIRE": "20/3/66",
+        "TEL": "086-3446422",
+        "TYPE": "7.1.4",
+        "PAY": 5000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.694586,
+        "LON": 101.257693,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.231328,
+          12.714341890000002
+        ]
+      },
+      "properties": {
+        "FID": 60,
+        "NAME_TH": " ",
+        "OWNER": "นายวิรัตน์ โรจน์สัตตรัตน์",
+        "ESTABLISHM": "โรงงานตั้งน้ำเส็งหลอดอกยาง",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "37/1",
+        "MOO": 4,
+        "EXPIRE": "2/4/66",
+        "TEL": "038-663242",
+        "TYPE": "7.7.2",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71434189,
+        "LON": 101.231328,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.232519,
+          12.713161
+        ]
+      },
+      "properties": {
+        "FID": 61,
+        "NAME_TH": " ",
+        "OWNER": "บจก เอ็มแอนด์ทีไทร์เซ็นเตอร์",
+        "ESTABLISHM": "การซ่อม ปะ เชื่อม",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "37/1",
+        "MOO": 4,
+        "EXPIRE": "2/4/66",
+        "TEL": "038-663052",
+        "TYPE": "7.7.2",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.713161,
+        "LON": 101.232519,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2498083,
+          12.696744999999998
+        ]
+      },
+      "properties": {
+        "FID": 62,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวดวงพรรณ บุญคุ้ม",
+        "ESTABLISHM": "อู่ BP Garage",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "42/35",
+        "MOO": 3,
+        "EXPIRE": "24/3/66",
+        "TEL": "087-106 7949",
+        "TYPE": "7.3.3",
+        "PAY": 3000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.696745,
+        "LON": 101.2498083,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2242443,
+          12.707462319999998
+        ]
+      },
+      "properties": {
+        "FID": 63,
+        "NAME_TH": " ",
+        "OWNER": "นายพรหม วงละคร",
+        "ESTABLISHM": "เอ็ม เอ ออโต้เซอร์วิส",
+        "BUSINESS": "อู่ซ้อมรถยนต์",
+        "HOUSE_NO": "79/9",
+        "MOO": 6,
+        "EXPIRE": "7/4/66",
+        "TEL": "089-6067371",
+        "TYPE": "7.3.2",
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70746232,
+        "LON": 101.2242443,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.232851,
+          12.711464
+        ]
+      },
+      "properties": {
+        "FID": 64,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท วี อาร์ ออโต้โมบิล",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": "29/2",
+        "MOO": 4,
+        "EXPIRE": "27/3/66",
+        "TEL": "038-029221",
+        "TYPE": "7.4.5",
+        "PAY": 8000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.711464,
+        "LON": 101.232851,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.227734,
+          12.716939000000002
+        ]
+      },
+      "properties": {
+        "FID": 65,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท สยามอินเตอร์ ซูซูกิ",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": 333,
+        "MOO": 4,
+        "EXPIRE": "18/2/66",
+        "TEL": "038-5983601",
+        "TYPE": "7.4.5",
+        "PAY": 8000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.716939,
+        "LON": 101.227734,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.25184,
+          12.699902
+        ]
+      },
+      "properties": {
+        "FID": 66,
+        "NAME_TH": " ",
+        "OWNER": "บมจ ระยองอีซุซุ เซลส์ จำกัด",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": "54/3",
+        "MOO": 3,
+        "EXPIRE": "12/3/66",
+        "TEL": "090 9632047",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.699902,
+        "LON": 101.25184,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.243111,
+          12.704790000000001
+        ]
+      },
+      "properties": {
+        "FID": 67,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท เอ็มจี ดีไลท์ จำกัด",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": " ",
+        "MOO": 0,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70479,
+        "LON": 101.243111,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.247511,
+          12.701581000000001
+        ]
+      },
+      "properties": {
+        "FID": 68,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท โตโยต้า พาวิลเลียน 2005 จำกัด",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": "88/8",
+        "MOO": 3,
+        "EXPIRE": "16/11/66",
+        "TEL": "038-0111 11 ต่อ 500",
+        "TYPE": "7.4.5",
+        "PAY": 8000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.701581,
+        "LON": 101.247511,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.255817,
+          12.699619999999998
+        ]
+      },
+      "properties": {
+        "FID": 69,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท ฮอนด้าออโตโมบิล จำกัด",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": " ",
+        "MOO": 0,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69962,
+        "LON": 101.255817,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.257184,
+          12.698167000000002
+        ]
+      },
+      "properties": {
+        "FID": 70,
+        "NAME_TH": " ",
+        "OWNER": "บจก สยามนิสสันตะวันออก",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": "88/8",
+        "MOO": 3,
+        "EXPIRE": "20/3/66",
+        "TEL": "038-624 777",
+        "TYPE": "7.4.5",
+        "PAY": 8000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.698167,
+        "LON": 101.257184,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.262622,
+          12.698878
+        ]
+      },
+      "properties": {
+        "FID": 71,
+        "NAME_TH": " ",
+        "OWNER": "บมจ สุเทพมอเตอร์ เซลล์ 1993",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": 71,
+        "MOO": 3,
+        "EXPIRE": "14/5/66",
+        "TEL": "081-8149564",
+        "TYPE": "7.4.5",
+        "PAY": 8000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.698878,
+        "LON": 101.262622,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2305606,
+          12.712494690000002
+        ]
+      },
+      "properties": {
+        "FID": 72,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท ยูดีทรัคส์ คอร์ปอเรชั่น",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": "39/10",
+        "MOO": 4,
+        "EXPIRE": "31/10/66",
+        "TEL": "081-7538073",
+        "TYPE": "12.3.2",
+        "PAY": 8000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71249469,
+        "LON": 101.2305606,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.234112,
+          12.710239999999999
+        ]
+      },
+      "properties": {
+        "FID": 73,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท ระยองดีเซลล์ จัด",
+        "ESTABLISHM": "ธุรกิจเกี่ยวกับยานยนต์",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": 139,
+        "MOO": 4,
+        "EXPIRE": "22/9/66",
+        "TEL": "082 0143515",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71024,
+        "LON": 101.234112,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.232144,
+          12.713265
+        ]
+      },
+      "properties": {
+        "FID": 74,
+        "NAME_TH": " ",
+        "OWNER": "บจก เอ็มแอนด์ทีไทร์เซ็นเตอร์",
+        "ESTABLISHM": "การซ่อม ปะ เชื่อม",
+        "BUSINESS": "บริษัทขายรถ",
+        "HOUSE_NO": "37/1",
+        "MOO": 4,
+        "EXPIRE": "2/4/66",
+        "TEL": "038-663052",
+        "TYPE": "7.7.3(ง)",
+        "PAY": 5000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.713265,
+        "LON": 101.232144,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.263502,
+          12.697481000000003
+        ]
+      },
+      "properties": {
+        "FID": 75,
+        "NAME_TH": " ",
+        "OWNER": "บมจ บริดจสโตน เอ ซี ประเทศไทย จำกัด",
+        "ESTABLISHM": " ",
+        "BUSINESS": "จำหน่ายยางรถ",
+        "HOUSE_NO": "6/3",
+        "MOO": 3,
+        "EXPIRE": "21/3/66",
+        "TEL": "038-016903",
+        "TYPE": "7.4.4",
+        "PAY": 5000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.697481,
+        "LON": 101.263502,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2414578,
+          12.70277068
+        ]
+      },
+      "properties": {
+        "FID": 76,
+        "NAME_TH": " ",
+        "OWNER": "นางนารี ครูส่ง",
+        "ESTABLISHM": "ทับมาการยาง",
+        "BUSINESS": "จำหน่ายยางรถ",
+        "HOUSE_NO": "7/1",
+        "MOO": 4,
+        "EXPIRE": "10/3/66",
+        "TEL": "081-4282281",
+        "TYPE": "7.3.2",
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70277068,
+        "LON": 101.2414578,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.255201,
+          12.699878999999997
+        ]
+      },
+      "properties": {
+        "FID": 77,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท ระยองพรอนันต์ 1997",
+        "ESTABLISHM": "ระยองพรอนันต์ 1997",
+        "BUSINESS": "จำหน่ายยางรถ",
+        "HOUSE_NO": " ",
+        "MOO": 0,
+        "EXPIRE": " ",
+        "TEL": " ",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.699879,
+        "LON": 101.255201,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2321788,
+          12.71380156
+        ]
+      },
+      "properties": {
+        "FID": 78,
+        "NAME_TH": " ",
+        "OWNER": "นายวิรัตน์ โรจน์สัตตรัตน์",
+        "ESTABLISHM": "โรงงานตั้งน้ำเส็งหลอดอกยาง",
+        "BUSINESS": "จำหน่ายยางรถ",
+        "HOUSE_NO": "37/1",
+        "MOO": 4,
+        "EXPIRE": "2/4/66",
+        "TEL": "038-663242",
+        "TYPE": "7.7.1",
+        "PAY": 250,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71380156,
+        "LON": 101.2321788,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.232378,
+          12.713137
+        ]
+      },
+      "properties": {
+        "FID": 79,
+        "NAME_TH": " ",
+        "OWNER": "บจก เอ็มแอนด์ทีไทร์เซ็นเตอร์",
+        "ESTABLISHM": "การซ่อม ปะ เชื่อม",
+        "BUSINESS": "จำหน่ายยางรถ",
+        "HOUSE_NO": "37/1",
+        "MOO": 4,
+        "EXPIRE": "2/4/66",
+        "TEL": "038-663052",
+        "TYPE": "7.7.1",
+        "PAY": 250,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.713137,
+        "LON": 101.232378,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2483826,
+          12.70115327
+        ]
+      },
+      "properties": {
+        "FID": 80,
+        "NAME_TH": " ",
+        "OWNER": "นายประเทือง ผ่องผาด",
+        "ESTABLISHM": "ประเทืองการยาง",
+        "BUSINESS": "จำหน่ายยางรถ",
+        "HOUSE_NO": "51/28",
+        "MOO": 3,
+        "EXPIRE": "23/6/66",
+        "TEL": "081-773 8914",
+        "TYPE": "7.7.2",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70115327,
+        "LON": 101.2483826,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.232782,
+          12.730467
+        ]
+      },
+      "properties": {
+        "FID": 81,
+        "NAME_TH": " ",
+        "OWNER": "ฟิวเจอร์ดิเวอลอป แอนด์ คอนสตร์คชั่น",
+        "ESTABLISHM": "โรงกลึง",
+        "BUSINESS": "โรงกลึง",
+        "HOUSE_NO": "102/2",
+        "MOO": 7,
+        "EXPIRE": "26/3/66",
+        "TEL": "038-663 296",
+        "TYPE": "อตร 6.3.5",
+        "PAY": 10000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.730467,
+        "LON": 101.232782,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.202883,
+          12.742465999999999
+        ]
+      },
+      "properties": {
+        "FID": 82,
+        "NAME_TH": " ",
+        "OWNER": "วีซี เอส เอเชีย",
+        "ESTABLISHM": "กลึง เจาะ",
+        "BUSINESS": "โรงกลึง",
+        "HOUSE_NO": "67/22-30",
+        "MOO": 8,
+        "EXPIRE": "22/3/66",
+        "TEL": "086-3171119",
+        "TYPE": "อตร 6.3.5",
+        "PAY": 10000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.742466,
+        "LON": 101.202883,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.23368,
+          12.692898000000001
+        ]
+      },
+      "properties": {
+        "FID": 83,
+        "NAME_TH": " ",
+        "OWNER": "หจก พีเอส พีซีชั่น เอ็นจิเนียริ่ง",
+        "ESTABLISHM": "โรงกลึง",
+        "BUSINESS": "โรงกลึง",
+        "HOUSE_NO": "1/4",
+        "MOO": 2,
+        "EXPIRE": "6/1/66",
+        "TEL": "081-591 4133",
+        "TYPE": "อตร 6.3.5",
+        "PAY": 10000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.692898,
+        "LON": 101.23368,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.230904,
+          12.732343
+        ]
+      },
+      "properties": {
+        "FID": 84,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท ระยอง พีเค จำกัด",
+        "ESTABLISHM": "โรงกลึง",
+        "BUSINESS": "โรงกลึง",
+        "HOUSE_NO": "132/10",
+        "MOO": 7,
+        "EXPIRE": "3/11/65",
+        "TEL": "089-2501987",
+        "TYPE": "อตร 6.3.4",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.732343,
+        "LON": 101.230904,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.221922,
+          12.721839
+        ]
+      },
+      "properties": {
+        "FID": 85,
+        "NAME_TH": " ",
+        "OWNER": "บจก.รีนิวคอยส์ เอ็นจิเนียริ่ง แอนด์ ซัพพลาย จำกัด",
+        "ESTABLISHM": "โรงกลึง",
+        "BUSINESS": "โรงกลึง",
+        "HOUSE_NO": 59,
+        "MOO": 8,
+        "EXPIRE": "7/10/66",
+        "TEL": "038-663476",
+        "TYPE": "อตร 6.3.5",
+        "PAY": 10000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.721839,
+        "LON": 101.221922,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2604831,
+          12.694057349999998
+        ]
+      },
+      "properties": {
+        "FID": 86,
+        "NAME_TH": " ",
+        "OWNER": "นายสยมภู เกษมสุข",
+        "ESTABLISHM": "มายเดีย คาร์แคร์",
+        "BUSINESS": "คาร์แคร์",
+        "HOUSE_NO": "6/4",
+        "MOO": 5,
+        "EXPIRE": "28/2/66",
+        "TEL": "089-6822513",
+        "TYPE": "7.5.1",
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69405735,
+        "LON": 101.2604831,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.24007,
+          12.69385534
+        ]
+      },
+      "properties": {
+        "FID": 87,
+        "NAME_TH": " ",
+        "OWNER": "นายอำพร พลตรี",
+        "ESTABLISHM": "คาร์แคร์",
+        "BUSINESS": "คาร์แคร์",
+        "HOUSE_NO": "28/33",
+        "MOO": 2,
+        "EXPIRE": "8/2/66",
+        "TEL": "082 8997194",
+        "TYPE": "อตร 7.5.1",
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69385534,
+        "LON": 101.24007,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.198914,
+          12.727324999999999
+        ]
+      },
+      "properties": {
+        "FID": 88,
+        "NAME_TH": " ",
+        "OWNER": "บมจ ปิยะมณี จำกัด",
+        "ESTABLISHM": "ซีก อบรีด",
+        "BUSINESS": "ซัก อบ รีด",
+        "HOUSE_NO": "52/40",
+        "MOO": 5,
+        "EXPIRE": "รายใหม่",
+        "TEL": "093-127 1680",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.727325,
+        "LON": 101.198914,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2188038,
+          12.699861869999998
+        ]
+      },
+      "properties": {
+        "FID": 89,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท ลอนดรี้ ยู จำกัด",
+        "ESTABLISHM": "ร้าน ซักรีด อัตโนมัติ",
+        "BUSINESS": "ซัก อบ รีด",
+        "HOUSE_NO": "155/29-30",
+        "MOO": 6,
+        "EXPIRE": "4/1/66",
+        "TEL": "064 183324",
+        "TYPE": 10.7,
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69986187,
+        "LON": 101.2188038,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.224501,
+          12.741576
+        ]
+      },
+      "properties": {
+        "FID": 90,
+        "NAME_TH": " ",
+        "OWNER": "บจก ศักดิ์ทวี รีไซเคิล",
+        "ESTABLISHM": "รับซื้อของเก่า",
+        "BUSINESS": "ค้าของเก่า",
+        "HOUSE_NO": "119/10",
+        "MOO": 7,
+        "EXPIRE": "21/1/64",
+        "TEL": "098 7824 464",
+        "TYPE": "13.5.5",
+        "PAY": 5000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.741576,
+        "LON": 101.224501,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2198001,
+          12.70633607
+        ]
+      },
+      "properties": {
+        "FID": 91,
+        "NAME_TH": " ",
+        "OWNER": "สราวุธ ฑิฆะสุข",
+        "ESTABLISHM": "ขายของเก่า",
+        "BUSINESS": "ค้าของเก่า",
+        "HOUSE_NO": "99/22",
+        "MOO": 2,
+        "EXPIRE": "15/2",
+        "TEL": "089 9482881",
+        "TYPE": 13.5,
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70633607,
+        "LON": 101.2198001,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.262953,
+          12.698711000000001
+        ]
+      },
+      "properties": {
+        "FID": 92,
+        "NAME_TH": " ",
+        "OWNER": "หจก.ระยองเชียงกงอิมปอร์ด",
+        "ESTABLISHM": "สะสมของเก่า",
+        "BUSINESS": "ค้าของเก่า",
+        "HOUSE_NO": "8/2",
+        "MOO": 1,
+        "EXPIRE": "21/3/66",
+        "TEL": "086 3023428",
+        "TYPE": 13.5,
+        "PAY": 4000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.698711,
+        "LON": 101.262953,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2397284,
+          12.70293786
+        ]
+      },
+      "properties": {
+        "FID": 93,
+        "NAME_TH": " ",
+        "OWNER": "นายสมพร ประวันจะ",
+        "ESTABLISHM": "ทับมาของเก่า",
+        "BUSINESS": "ค้าของเก่า",
+        "HOUSE_NO": 61251,
+        "MOO": 4,
+        "EXPIRE": "14/7/64",
+        "TEL": "089 0323552",
+        "TYPE": "13.5.2",
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70293786,
+        "LON": 101.2397284,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2490595,
+          12.702523490000004
+        ]
+      },
+      "properties": {
+        "FID": 94,
+        "NAME_TH": " ",
+        "OWNER": "นางทัศนีย์ ไพบูลย์กิจ",
+        "ESTABLISHM": "ร้านขายวัสดุก่อสร้าง",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "54/2",
+        "MOO": 3,
+        "EXPIRE": "1/3/66",
+        "TEL": "081-5759266",
+        "TYPE": "8.2.2",
+        "PAY": 2000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70252349,
+        "LON": 101.2490595,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2201857,
+          12.707802450000003
+        ]
+      },
+      "properties": {
+        "FID": 95,
+        "NAME_TH": " ",
+        "OWNER": "ชมพูนุช สนั่นไหว",
+        "ESTABLISHM": "ตู้น้ำอัตโนวิติ",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "81/1",
+        "MOO": 6,
+        "EXPIRE": "8/2/66",
+        "TEL": "090 659 8232",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70780245,
+        "LON": 101.2201857,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2201857,
+          12.707802450000003
+        ]
+      },
+      "properties": {
+        "FID": 96,
+        "NAME_TH": " ",
+        "OWNER": "ชมพูนุช สนั่นไหว",
+        "ESTABLISHM": "เครื่องซักผ้าหยอดเหรียญ",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "81/1",
+        "MOO": 6,
+        "EXPIRE": "8/2/66",
+        "TEL": "090 659 8232",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70780245,
+        "LON": 101.2201857,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.24977,
+          12.712531180000001
+        ]
+      },
+      "properties": {
+        "FID": 97,
+        "NAME_TH": " ",
+        "OWNER": "นางเยาวภา กุลสุทธิ์",
+        "ESTABLISHM": "ร้านทำอลูมิเนียม",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "46/1",
+        "MOO": 3,
+        "EXPIRE": "21/3/66",
+        "TEL": "087 942 5589",
+        "TYPE": "6.3.1",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71253118,
+        "LON": 101.24977,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2488674,
+          12.713469850000001
+        ]
+      },
+      "properties": {
+        "FID": 98,
+        "NAME_TH": " ",
+        "OWNER": "เกสร พงศ์ภัชกุล",
+        "ESTABLISHM": "การผลิต หรือบรรจุ",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "59/3",
+        "MOO": 1,
+        "EXPIRE": "13/3",
+        "TEL": "086 3073233",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71346985,
+        "LON": 101.2488674,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2294453,
+          12.708634090000002
+        ]
+      },
+      "properties": {
+        "FID": 99,
+        "NAME_TH": " ",
+        "OWNER": "สาวิตรี อิ่มทองคำ",
+        "ESTABLISHM": "หจก วิ้งคอสเมด",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "39/158",
+        "MOO": 4,
+        "EXPIRE": "29/5",
+        "TEL": "061 5424425",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.70863409,
+        "LON": 101.2294453,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.204834,
+          12.730639999999998
+        ]
+      },
+      "properties": {
+        "FID": 100,
+        "NAME_TH": " ",
+        "OWNER": "บจก.ไทยฮั้วยางพารา",
+        "ESTABLISHM": "ทำยาง",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "238/1",
+        "MOO": 6,
+        "EXPIRE": "24/2/64",
+        "TEL": "038-847 559",
+        "TYPE": "5.2.5",
+        "PAY": 10000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.73064,
+        "LON": 101.204834,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2453727,
+          12.69421841
+        ]
+      },
+      "properties": {
+        "FID": 101,
+        "NAME_TH": " ",
+        "OWNER": "อำนาจ สระทองน้อย",
+        "ESTABLISHM": "บอยสันระยอง",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "53/32",
+        "MOO": 3,
+        "EXPIRE": "7/5/66",
+        "TEL": "089 4039900",
+        "TYPE": "7.6.3",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69421841,
+        "LON": 101.2453727,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.25557,
+          12.683384190000002
+        ]
+      },
+      "properties": {
+        "FID": 102,
+        "NAME_TH": " ",
+        "OWNER": "เสกสรร โพรดักส์",
+        "ESTABLISHM": "การผลิต สะสม",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "32/7",
+        "MOO": 4,
+        "EXPIRE": "17/5",
+        "TEL": "085 1232694",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.68338419,
+        "LON": 101.25557,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2671669,
+          12.693292769999998
+        ]
+      },
+      "properties": {
+        "FID": 103,
+        "NAME_TH": " ",
+        "OWNER": "อำไพ เฮงสกุลวงษ์",
+        "ESTABLISHM": "อำไพ สมุนไพร",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "1/9",
+        "MOO": 3,
+        "EXPIRE": "7/7/65",
+        "TEL": "082-5432187",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69329277,
+        "LON": 101.2671669,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.237838,
+          12.709358
+        ]
+      },
+      "properties": {
+        "FID": 104,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท เอส อีส สควิด จำกัด",
+        "ESTABLISHM": "ผลิตอาหารสำเร็จรูป",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "29/1",
+        "MOO": 4,
+        "EXPIRE": "รออัพเดต",
+        "TEL": "088 9123664",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.709358,
+        "LON": 101.237838,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.197719,
+          12.777275
+        ]
+      },
+      "properties": {
+        "FID": 105,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท อีสเทิร์น ซีเมนต์ 2015 จำกัด",
+        "ESTABLISHM": "บริษัท อีสเทิร์น ซีเมนต์ 2015 จำกัด",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "131/10",
+        "MOO": 7,
+        "EXPIRE": "6/8/65",
+        "TEL": "081-6999 634",
+        "TYPE": " ",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.777275,
+        "LON": 101.197719,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.226287,
+          12.718995
+        ]
+      },
+      "properties": {
+        "FID": 106,
+        "NAME_TH": " ",
+        "OWNER": "บจก อาหารและเครื่องปรุ่ง",
+        "ESTABLISHM": "บจก อาหารและเครื่องปรุ่ง",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "29/69",
+        "MOO": 4,
+        "EXPIRE": "รายใหม่",
+        "TEL": "033-013 469",
+        "TYPE": "3.2.1(จ)",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.718995,
+        "LON": 101.226287,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.214616,
+          12.697831999999998
+        ]
+      },
+      "properties": {
+        "FID": 107,
+        "NAME_TH": " ",
+        "OWNER": "หจก.ไอ-บราวบิวตี้ สตูดิโอ",
+        "ESTABLISHM": "หจก.ไอ-บราวบิวตี้ สตูดิโอ",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "131/84",
+        "MOO": 2,
+        "EXPIRE": "31/10/66",
+        "TEL": "094-665 3359",
+        "TYPE": "9.18.1 การสักผิวหนัง",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.697832,
+        "LON": 101.214616,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2406177,
+          12.711502219999998
+        ]
+      },
+      "properties": {
+        "FID": 108,
+        "NAME_TH": " ",
+        "OWNER": "ประกิตดนัย วัชระดนัย",
+        "ESTABLISHM": "ฟาร์มรุ่งเรือง 1",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": 91,
+        "MOO": 7,
+        "EXPIRE": "20/12/66",
+        "TEL": "086-996 2352",
+        "TYPE": 1.1,
+        "PAY": 500,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71150222,
+        "LON": 101.2406177,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2320021,
+          12.69877498
+        ]
+      },
+      "properties": {
+        "FID": 109,
+        "NAME_TH": " ",
+        "OWNER": "ประกิตดนัย วัชระดนัย",
+        "ESTABLISHM": "ฟาร์มรุ่งเรือง 2",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "66/11",
+        "MOO": 8,
+        "EXPIRE": "20/12/66",
+        "TEL": "086-996 2352",
+        "TYPE": 1.1,
+        "PAY": 500,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.69877498,
+        "LON": 101.2320021,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.250635,
+          12.704549
+        ]
+      },
+      "properties": {
+        "FID": 110,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท ร่วมกำชัย",
+        "ESTABLISHM": "ร่วมกำชัย",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": 52,
+        "MOO": 3,
+        "EXPIRE": "29/1/66",
+        "TEL": "038-023 620",
+        "TYPE": "3.24.5",
+        "PAY": 10000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.704549,
+        "LON": 101.250635,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2347964,
+          12.718537329999998
+        ]
+      },
+      "properties": {
+        "FID": 111,
+        "NAME_TH": " ",
+        "OWNER": "นายสมศักดิ์ บุญยั่งยืน",
+        "ESTABLISHM": "ผลิตสิ่งของเหลืองใข้",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "47/2\t",
+        "MOO": 4,
+        "EXPIRE": "18/1/66",
+        "TEL": "081-6865123",
+        "TYPE": "8.3.1",
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71853733,
+        "LON": 101.2347964,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.206146,
+          12.734394999999997
+        ]
+      },
+      "properties": {
+        "FID": 112,
+        "NAME_TH": " ",
+        "OWNER": "บริษัท กลอบอลซีล จำกัด",
+        "ESTABLISHM": "ธุรกิจยานยนต์",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "85/4",
+        "MOO": 5,
+        "EXPIRE": "27/1/66",
+        "TEL": "038-947775",
+        "TYPE": 7.4,
+        "PAY": 0,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.734395,
+        "LON": 101.206146,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.197644,
+          12.745582
+        ]
+      },
+      "properties": {
+        "FID": 113,
+        "NAME_TH": " ",
+        "OWNER": "บจก สแกนสยาม บริการ",
+        "ESTABLISHM": "ซ่อมปรับแต่ง",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "77/10",
+        "MOO": 5,
+        "EXPIRE": "20/3/66",
+        "TEL": "092-2239518",
+        "TYPE": "7.3.4",
+        "PAY": 5000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.745582,
+        "LON": 101.197644,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2347964,
+          12.718537329999998
+        ]
+      },
+      "properties": {
+        "FID": 114,
+        "NAME_TH": " ",
+        "OWNER": "นางสาวนวลจันทร์ นาครวชิตระกูล",
+        "ESTABLISHM": "สะสม ผสมซีเมนต์",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": 18,
+        "MOO": 4,
+        "EXPIRE": "23/3/66",
+        "TEL": "038-621 951",
+        "TYPE": "11.4.1(ก)",
+        "PAY": 1000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.71853733,
+        "LON": 101.2347964,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.232085,
+          12.713644000000002
+        ]
+      },
+      "properties": {
+        "FID": 115,
+        "NAME_TH": " ",
+        "OWNER": "บจก เอ็มแอนด์ทีไทร์เซ็นเตอร์",
+        "ESTABLISHM": "การซ่อม ปะ เชื่อม",
+        "BUSINESS": "อื่น ๆ",
+        "HOUSE_NO": "37/1",
+        "MOO": 4,
+        "EXPIRE": "2/4/66",
+        "TEL": "038-663052",
+        "TYPE": "12.3.2(ก)",
+        "PAY": 3000,
+        "CUSTOMER": " ",
+        "LICENSE": " ",
+        "HAND": " ",
+        "LAT": 12.713644,
+        "LON": 101.232085,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    }
+  ]
+}

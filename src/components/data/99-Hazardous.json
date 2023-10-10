@@ -1,0 +1,499 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24086799965265,
+            12.712884999759689,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "OBJECTID": 1,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.712885,
+          "LON": 101.240868,
+          "LOCATION": " "
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24058699954541,
+            12.719960999686268,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "OBJECTID": 2,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.719961,
+          "LON": 101.240587,
+          "LOCATION": " "
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24084399958168,
+            12.706017000440953,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "OBJECTID": 3,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.706017,
+          "LON": 101.240844,
+          "LOCATION": " "
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23999300039291,
+            12.70550800000808,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 3,
+          "OBJECTID": 4,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.705508,
+          "LON": 101.239993,
+          "LOCATION": " "
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23606800041269,
+            12.706926999633637,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 4,
+          "OBJECTID": 5,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.706927,
+          "LON": 101.236068,
+          "LOCATION": " "
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.20194100004213,
+            12.727630000430425,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 5,
+          "OBJECTID": 6,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 5,
+          "MOO_TH": "บ้านเขาไผ่",
+          "LAT": 12.72763,
+          "LON": 101.201941,
+          "LOCATION": " "
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.22049099960336,
+            12.725949000019492,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 6,
+          "OBJECTID": 7,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 8,
+          "MOO_TH": "บ้านสะพานหิน",
+          "LAT": 12.725949,
+          "LON": 101.220491,
+          "LOCATION": " "
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.2500170998849,
+            12.713450000275426,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 7,
+          "OBJECTID": 8,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 1,
+          "MOO_TH": "บ้านขนาบ",
+          "LAT": 12.7135,
+          "LON": 101.25,
+          "LOCATION": "จุด 1  ศาลาอเนกประสงค์"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.22850010006809,
+            12.693509899699592,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 8,
+          "OBJECTID": 9,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LAT": 12.6935,
+          "LON": 101.2285,
+          "LOCATION": "จุด 2  สนามกีฬาหมู่ 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.25416780043246,
+            12.695061700172944,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 9,
+          "OBJECTID": 10,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LAT": 12.6951,
+          "LON": 101.2542,
+          "LOCATION": "จุด 3  ศาลาหนองมะหาด"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24103699983874,
+            12.703876100009177,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 10,
+          "OBJECTID": 11,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.7039,
+          "LON": 101.241,
+          "LOCATION": "จุด 4 โรงพยาบาลส่งเสริมตำบลทับมา"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.240935999602,
+            12.706120700049093,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 11,
+          "OBJECTID": 12,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.7061,
+          "LON": 101.2409,
+          "LOCATION": "จุด 5 เทศบาลตำบลทับมา"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23856230040575,
+            12.705645499765572,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 12,
+          "OBJECTID": 13,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.7056,
+          "LON": 101.2386,
+          "LOCATION": "จุด 6  ศูนย์พัฒนาเด็กเล็กบ้านทับมา"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.20167460041846,
+            12.727598699882664,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 13,
+          "OBJECTID": 14,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 5,
+          "MOO_TH": "บ้านเขาไผ่",
+          "LAT": 12.7276,
+          "LON": 101.2017,
+          "LOCATION": "จุด 7  ที่ทำการผู้ใหญ่หมู่ 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23512799995007,
+            12.726745099578968,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 14,
+          "OBJECTID": 15,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 4,
+          "MOO_TH": "บ้านทับมา",
+          "LAT": 12.7267,
+          "LON": 101.2351,
+          "LOCATION": "จุด 8 ศาลาหมู่ 7"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.22038789994109,
+            12.726030200168776,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 15,
+          "OBJECTID": 16,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 8,
+          "MOO_TH": "บ้านสะพานหิน",
+          "LAT": 12.726,
+          "LON": 101.2204,
+          "LOCATION": "จุด 9 คุ้มขยะยิ้ม หมู่ 8"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.22188749987481,
+            12.70096729955732,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 16,
+          "OBJECTID": 17,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LAT": 12.701,
+          "LON": 101.2219,
+          "LOCATION": "จุด 10  โรงเรียนประภัสสรคุณธรรม"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23037259975857,
+            12.70146460043448,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 17,
+          "OBJECTID": 18,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 6,
+          "MOO_TH": "บ้านหนองโพรง",
+          "LAT": 12.7015,
+          "LON": 101.2304,
+          "LOCATION": "จุด 11  ที่ทำการผู้ใหญ่ หมู่ 6"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.26179529992872,
+            12.689299799978635,
+            0,
+            null
+          ]
+        },
+        "properties": {
+          "FID": 18,
+          "OBJECTID": 19,
+          "NAME_TH": "ถังขยะอันตราย",
+          "NAME_EN": " ",
+          "COUNT": 1,
+          "OWNER": "เทศบาลตำบลทับมา",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LAT": 12.6893,
+          "LON": 101.2618,
+          "LOCATION": "จุด 12 หมู่บ้านกรุงไทย"
+        }
+      }
+    ]
+  }

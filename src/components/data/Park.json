@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.247785,
+            12.720593000000004
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "NAME_TH": "สนามกีฬาหมู่ 1",
+          "MOO_ID": 1,
+          "MOO_TH": "บ้านขนาบ",
+          "OWNER": " ",
+          "LAT": 12.720593,
+          "LON": 101.247785,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.254253,
+            12.695065000000001
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "NAME_TH": "ศาลาเอนกประสงค์หนองมะหาด",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "OWNER": " ",
+          "LAT": 12.695065,
+          "LON": 101.254253,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.227245,
+            12.692756000000003
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "NAME_TH": "สนามกีฬาหมู่ 2 แหลมมะขาม",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "OWNER": " ",
+          "LAT": 12.692756,
+          "LON": 101.227245,
+          "MOD_DATE": "มิถุนายน 2566"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.254297,
+          12.711137
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "NAME_TH": "นายทวี ใจตั้ง",
+        "OLD": 81,
+        "DETAIL": " ",
+        "NO_HOUSE": 20,
+        "ID_MOO": 1,
+        "MOO_NAMET": "บ้านขนาบ",
+        "LAT": 12.711137,
+        "LON": 101.254297,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.254302,
+          12.711036999999997
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "NAME_TH": "นางอุษา ใจตั้ง",
+        "OLD": 80,
+        "DETAIL": " ",
+        "NO_HOUSE": 20,
+        "ID_MOO": 1,
+        "MOO_NAMET": "บ้านขนาบ",
+        "LAT": 12.711037,
+        "LON": 101.254302,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2347635,
+          12.69724495
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "NAME_TH": "นายณัฐธนัน ปัญญาภูมิสถิตย์",
+        "OLD": 35,
+        "DETAIL": " ",
+        "NO_HOUSE": "56/2",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "LAT": 12.69724495,
+        "LON": 101.2347635,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2533535,
+          12.694422540000001
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "NAME_TH": "นายวิเชียร อ่อนแสง",
+        "OLD": 56,
+        "DETAIL": " ",
+        "NO_HOUSE": 26,
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "LAT": 12.69442254,
+        "LON": 101.2533535,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.253318,
+          12.694385000000004
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "NAME_TH": "น.ส.ปนัดดา อ่อนแสง",
+        "OLD": 53,
+        "DETAIL": " ",
+        "NO_HOUSE": 26,
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "LAT": 12.694385,
+        "LON": 101.253318,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.251822,
+          12.689786
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "NAME_TH": "นางเพียร ม่วงน้อย",
+        "OLD": 85,
+        "DETAIL": " ",
+        "NO_HOUSE": "หมู่บ้านโมเดิร์น",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "LAT": 12.689786,
+        "LON": 101.251822,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2350613,
+          12.71916811
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "NAME_TH": "นางสมาน นามจันทร์",
+        "OLD": 88,
+        "DETAIL": " ",
+        "NO_HOUSE": 47,
+        "ID_MOO": 4,
+        "MOO_NAMET": "บ้านทับมา",
+        "LAT": 12.71916811,
+        "LON": 101.2350613,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2389439,
+          12.69762553
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "NAME_TH": "นายศรีนวล ศิริคช",
+        "OLD": 67,
+        "DETAIL": " ",
+        "NO_HOUSE": "49/2",
+        "ID_MOO": 6,
+        "MOO_NAMET": "บ้านหนองโพรง",
+        "LAT": 12.69762553,
+        "LON": 101.2389439,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2317851,
+          12.728656720000002
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "NAME_TH": "นางประทุม แก้วบัวขาว",
+        "OLD": 92,
+        "DETAIL": " ",
+        "NO_HOUSE": "108/98",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "LAT": 12.72865672,
+        "LON": 101.2317851,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2216065,
+          12.727225299999999
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "NAME_TH": "นายบุญมี ขอบอรัญ",
+        "OLD": 86,
+        "DETAIL": " ",
+        "NO_HOUSE": 55,
+        "ID_MOO": 8,
+        "MOO_NAMET": "บ้านสะพานหิน",
+        "LAT": 12.7272253,
+        "LON": 101.2216065,
+        "NOTE": " ",
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2263278,
+          12.69489391
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "FIRST_NAME": "น.ส.นิรัชพร",
+        "LAST_NAME": "แลโสภา",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 15,
+        "TEL": "0946341432",
+        "NO_HOUSE": "115/21",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "1 กันยายน 2565",
+        "SICK_DATE": "28 สิงหาคม 2565",
+        "FOUND_DATE": "31 สิงหาคม 2565",
+        "WBC": 9300,
+        "HCT": 37.1,
+        "PLT": 273100,
+        "LY": 6.9,
+        "ATYP": " ",
+        "CONTROL_DA": "3 กันยายน 2565",
+        "REMARK": " ",
+        "LAT": 12.69489391,
+        "LON": 101.2263278,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2303801,
+          12.73079121
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "FIRST_NAME": "น.ส.สราวุธ",
+        "LAST_NAME": "ปล้องอ่อน",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 35,
+        "TEL": "0971604546",
+        "NO_HOUSE": "108/29",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "NOCTIFIED_": "4 กันยายน 2565",
+        "SICK_DATE": "31 สิงหาคม 2565",
+        "FOUND_DATE": "3 กันยายน 2565",
+        "WBC": 2400,
+        "HCT": 44.2,
+        "PLT": 64000,
+        "LY": 30.3,
+        "ATYP": " ",
+        "CONTROL_DA": "5 กันยายน 2566",
+        "REMARK": " ",
+        "LAT": 12.73079121,
+        "LON": 101.2303801,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2254384,
+          12.70370544
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "FIRST_NAME": "นายอนุรักษ์",
+        "LAST_NAME": "ไวยคีรี",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 20,
+        "TEL": "0615655121",
+        "NO_HOUSE": "102/7",
+        "ID_MOO": 6,
+        "MOO_NAMET": "บ้านหนองโพรง",
+        "NOCTIFIED_": "5 กันยายน 2565",
+        "SICK_DATE": "2 กันยายน 2565",
+        "FOUND_DATE": "4 กันยายน 2565",
+        "WBC": 5510,
+        "HCT": 37,
+        "PLT": 190000,
+        "LY": 18,
+        "ATYP": " ",
+        "CONTROL_DA": "7 กันยายน 2565",
+        "REMARK": " ",
+        "LAT": 12.70370544,
+        "LON": 101.2254384,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2569647,
+          12.7006208
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "FIRST_NAME": "นายพิทักษ์พงศ์",
+        "LAST_NAME": "โคตะดี",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 38,
+        "TEL": "0841011545",
+        "NO_HOUSE": "119/22",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "NOCTIFIED_": "14 กันยายน 2565",
+        "SICK_DATE": "10 กันยายน 2565",
+        "FOUND_DATE": "11 กันยายน 2565",
+        "WBC": 2730,
+        "HCT": 39.2,
+        "PLT": 167000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": " ",
+        "REMARK": "ไม่ได้ควบคุมโรค เนื่องจากเขตพื้นที่บ้านผู้ป่วยน้ำท่วม",
+        "LAT": 12.7006208,
+        "LON": 101.2569647,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2184271,
+          12.69109481
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "FIRST_NAME": "น.ส.วรณพร",
+        "LAST_NAME": "ปัตทวีคงคา",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 33,
+        "TEL": "0842491559",
+        "NO_HOUSE": "122/62",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "7 กันยายน 2565",
+        "SICK_DATE": "14 กันยายน 2565",
+        "FOUND_DATE": "16 กันยายน 2565",
+        "WBC": 5100,
+        "HCT": 28.3,
+        "PLT": 233000,
+        "LY": 29.7,
+        "ATYP": " ",
+        "CONTROL_DA": "16 กันยายน 2565",
+        "REMARK": " ",
+        "LAT": 12.69109481,
+        "LON": 101.2184271,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2476436,
+          12.70134195
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "FIRST_NAME": "น.ส.อารียา",
+        "LAST_NAME": "มณีโชติ",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 33,
+        "TEL": "0926801632",
+        "NO_HOUSE": "18/3",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "NOCTIFIED_": "23 กันยายน 2565",
+        "SICK_DATE": "19 กันยายน 2565",
+        "FOUND_DATE": "21 กันยายน 2565",
+        "WBC": 2700,
+        "HCT": 40.4,
+        "PLT": 139000,
+        "LY": 13,
+        "ATYP": " ",
+        "CONTROL_DA": "28 กันยายน 2565",
+        "REMARK": " ",
+        "LAT": 12.70134195,
+        "LON": 101.2476436,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2653329,
+          12.69430072
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "FIRST_NAME": "น.ส.ศิรินทิพย์",
+        "LAST_NAME": "ผาสุข",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 28,
+        "TEL": "091776596",
+        "NO_HOUSE": "1/470",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "NOCTIFIED_": "27 กันยายน 2565",
+        "SICK_DATE": "10 กันยายน 2565",
+        "FOUND_DATE": "11 กันยายน 2565",
+        "WBC": 6690,
+        "HCT": 39.7,
+        "PLT": 221000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "28 กันยายน 2565",
+        "REMARK": " ",
+        "LAT": 12.69430072,
+        "LON": 101.2653329,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2096403,
+          12.73071646
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "FIRST_NAME": "นายณัฐพล",
+        "LAST_NAME": "สุวรรณพิทักษ์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 32,
+        "TEL": "0846542529",
+        "NO_HOUSE": "55/52",
+        "ID_MOO": 5,
+        "MOO_NAMET": "บ้านเขาไผ่",
+        "NOCTIFIED_": "2 ตุลาคม 2565",
+        "SICK_DATE": "1 ตุลาคม 2565",
+        "FOUND_DATE": "2 ตุลาคม 2565",
+        "WBC": 6860,
+        "HCT": 38.6,
+        "PLT": 158000,
+        "LY": 11,
+        "ATYP": " ",
+        "CONTROL_DA": "3 ตุลาคม 2565",
+        "REMARK": " ",
+        "LAT": 12.73071646,
+        "LON": 101.2096403,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2655249,
+          12.69377044
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "FIRST_NAME": "ด.ญ.ญานิศา",
+        "LAST_NAME": "ปริญญานุ",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 8,
+        "TEL": "0882059910",
+        "NO_HOUSE": "1/400",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "NOCTIFIED_": "12 ตุลาคม 2565",
+        "SICK_DATE": "8 ตุลาคม 2565",
+        "FOUND_DATE": "11 ตุลาคม 2565",
+        "WBC": 2600,
+        "HCT": 32.8,
+        "PLT": 21000,
+        "LY": 23,
+        "ATYP": " ",
+        "CONTROL_DA": "12 ตุลาคม 2565",
+        "REMARK": " ",
+        "LAT": 12.69377044,
+        "LON": 101.2655249,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2151856,
+          12.69530029
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "FIRST_NAME": "นายสุกัลป์",
+        "LAST_NAME": "คงคาล้อม",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 25,
+        "TEL": "0911852812",
+        "NO_HOUSE": "126/503",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "18 ตุลาคม 2565",
+        "SICK_DATE": "7 ตุลาคม 2565",
+        "FOUND_DATE": "9 ตุลาคม 2565",
+        "WBC": 2700,
+        "HCT": 40.4,
+        "PLT": 139000,
+        "LY": 13,
+        "ATYP": " ",
+        "CONTROL_DA": "19 ตุลาคม 2565",
+        "REMARK": " ",
+        "LAT": 12.69530029,
+        "LON": 101.2151856,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2288169,
+          12.70592995
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "FIRST_NAME": "ด.ช.ณัฐสิทธิ์",
+        "LAST_NAME": "ธรรมนุวัฒน์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 11,
+        "TEL": "0828788995",
+        "NO_HOUSE": "75/50",
+        "ID_MOO": 6,
+        "MOO_NAMET": "บ้านหนองโพรง",
+        "NOCTIFIED_": "28 ตุลาคม 2565",
+        "SICK_DATE": "22 ตุลาคม 2565",
+        "FOUND_DATE": "24 ตุลาคม 2565",
+        "WBC": 8400,
+        "HCT": 33,
+        "PLT": 344000,
+        "LY": 20,
+        "ATYP": " ",
+        "CONTROL_DA": "31 ตุลาคม 2565",
+        "REMARK": " ",
+        "LAT": 12.70592995,
+        "LON": 101.2288169,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2481681,
+          12.71147102
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "FIRST_NAME": "ด.ญ.ณัฐญา",
+        "LAST_NAME": "เจียนงาม",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 8,
+        "TEL": "0837153328",
+        "NO_HOUSE": "49/22",
+        "ID_MOO": 1,
+        "MOO_NAMET": "บ้านขนาบ",
+        "NOCTIFIED_": "2 พฤศจิกายน 2565",
+        "SICK_DATE": "19 ตุลาคม 2565",
+        "FOUND_DATE": "2 พฤศจิกายน 2565",
+        "WBC": 1200,
+        "HCT": 38.7,
+        "PLT": 940000,
+        "LY": 43,
+        "ATYP": 11,
+        "CONTROL_DA": "2 พฤศจิกายน 2565",
+        "REMARK": " ",
+        "LAT": 12.71147102,
+        "LON": 101.2481681,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2196559,
+          12.70050198
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "FIRST_NAME": "ด.ญ.แสนดี",
+        "LAST_NAME": "สุวรรณรังษี",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 10,
+        "TEL": "0891994685",
+        "NO_HOUSE": "155/4",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "16 พฤศจิกายน 2565",
+        "SICK_DATE": "11 พฤศจิกายน 2565",
+        "FOUND_DATE": "14 พฤศจิกายน 2565",
+        "WBC": 8860,
+        "HCT": 40.1,
+        "PLT": 178000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "21 พฤศจิกายน 2565",
+        "REMARK": " ",
+        "LAT": 12.70050198,
+        "LON": 101.2196559,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2084656,
+          12.73060652
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "FIRST_NAME": "นายธนพนธ์",
+        "LAST_NAME": "วิสารทกุล",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 30,
+        "TEL": "0814595761",
+        "NO_HOUSE": "55/116",
+        "ID_MOO": 5,
+        "MOO_NAMET": "บ้านเขาไผ่",
+        "NOCTIFIED_": "30 พฤศจิกายน 2565",
+        "SICK_DATE": "28 พฤศจิกายน 2565",
+        "FOUND_DATE": "28 พฤศจิกายน 2565",
+        "WBC": 5890,
+        "HCT": 42.7,
+        "PLT": 222000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "7 ธันวาคม 2565",
+        "REMARK": "ควบคุมโรคล่าช้าเนื่องจาก ผู้ป่วยไม่สะดวกให้เข้าควบคุมโรคทันที",
+        "LAT": 12.73060652,
+        "LON": 101.2084656,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2248108,
+          12.70438162
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "FIRST_NAME": "นายอาทิตย์",
+        "LAST_NAME": "เปี่ยมพงษ์สานต์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 54,
+        "TEL": "0818642369",
+        "NO_HOUSE": "103/5",
+        "ID_MOO": 6,
+        "MOO_NAMET": "บ้านหนองโพรง",
+        "NOCTIFIED_": "24 ธันวาคม 2565",
+        "SICK_DATE": "14 ธันวาคม 2565",
+        "FOUND_DATE": "19 ธันวาคม 2565",
+        "WBC": 2290,
+        "HCT": 45.5,
+        "PLT": 151000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "26 ธันวาคม 2565",
+        "REMARK": " ",
+        "LAT": 12.70438162,
+        "LON": 101.2248108,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2254384,
+          12.70370544
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "FIRST_NAME": "นายพงศกร",
+        "LAST_NAME": "ยิ้มประสิทธิ์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 15,
+        "TEL": "0936392993",
+        "NO_HOUSE": "102/7",
+        "ID_MOO": 6,
+        "MOO_NAMET": "บ้านหนองโพรง",
+        "NOCTIFIED_": "26 ธันวาคม 2565",
+        "SICK_DATE": "22 ธันวาคม 2565",
+        "FOUND_DATE": "25 ธันวาคม 2565",
+        "WBC": 2510,
+        "HCT": 45.3,
+        "PLT": 149000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "28 ธันวาคม 2565",
+        "REMARK": " ",
+        "LAT": 12.70370544,
+        "LON": 101.2254384,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.265305,
+          12.69247305
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "FIRST_NAME": "นายธีรภัทร",
+        "LAST_NAME": "พิศาลรัตนคุณ",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 18,
+        "TEL": "0816305507",
+        "NO_HOUSE": "1/153",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "NOCTIFIED_": "12 มกราคม 2566",
+        "SICK_DATE": "6 มกราคม 2566",
+        "FOUND_DATE": "11 มกราคม 2566",
+        "WBC": 3450,
+        "HCT": 48.6,
+        "PLT": 38000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "13 มกราคม 2566",
+        "REMARK": " ",
+        "LAT": 12.69247305,
+        "LON": 101.265305,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2230498,
+          12.69254446
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "FIRST_NAME": "น.ส.หฤทัย",
+        "LAST_NAME": "บุราณปู่",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 39,
+        "TEL": "0871394436",
+        "NO_HOUSE": "130/395",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "2 มิถุนายน 2566",
+        "SICK_DATE": "25 พฤษภาคม 2566",
+        "FOUND_DATE": "1 มิถุนายน 2566",
+        "WBC": 8700,
+        "HCT": 41.2,
+        "PLT": 167000,
+        "LY": 34.8,
+        "ATYP": " ",
+        "CONTROL_DA": "2 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.69254446,
+        "LON": 101.2230498,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2418822,
+          12.70408207
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "FIRST_NAME": "ด.ช.ภูรินทร์",
+        "LAST_NAME": "ผไทวณิชย์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 11,
+        "TEL": "0896057606",
+        "NO_HOUSE": "11/9",
+        "ID_MOO": 4,
+        "MOO_NAMET": "บ้านทับมา",
+        "NOCTIFIED_": "3 มิถุนายน 2566",
+        "SICK_DATE": "2 มิถุนายน 2566",
+        "FOUND_DATE": "2 มิถุนายน 2566",
+        "WBC": 5570,
+        "HCT": 36.3,
+        "PLT": 290000,
+        "LY": 8,
+        "ATYP": " ",
+        "CONTROL_DA": "3 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.70408207,
+        "LON": 101.2418822,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2577731,
+          12.69424765
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "FIRST_NAME": "น.ส.วัชราภรณ์",
+        "LAST_NAME": "เกษมสวัสดิ์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 31,
+        "TEL": "0880028938",
+        "NO_HOUSE": "11/1",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "NOCTIFIED_": "7 มิถุนายน 2566",
+        "SICK_DATE": "31 พฤษภาคม 2566",
+        "FOUND_DATE": "3 มิถุนายน 2566",
+        "WBC": 3070,
+        "HCT": 43,
+        "PLT": 176000,
+        "LY": 22,
+        "ATYP": " ",
+        "CONTROL_DA": "12 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.69424765,
+        "LON": 101.2577731,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.229101,
+          12.73497028
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "FIRST_NAME": "น.ส.นัยปน์ปพร",
+        "LAST_NAME": "โสมารค",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 23,
+        "TEL": "0633373789",
+        "NO_HOUSE": "133/19",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "NOCTIFIED_": "8 มิถุนายน 2566",
+        "SICK_DATE": "2 มิถุนายน 2566",
+        "FOUND_DATE": "2 มิถุนายน 2566",
+        "WBC": 5700,
+        "HCT": 41.2,
+        "PLT": 167000,
+        "LY": 34.8,
+        "ATYP": " ",
+        "CONTROL_DA": "12 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.73497028,
+        "LON": 101.229101,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2399037,
+          12.72230543
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "FIRST_NAME": "นายนราวิชญ์",
+        "LAST_NAME": "นามสนธิ",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 20,
+        "TEL": "0993285572",
+        "NO_HOUSE": "86/11",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "NOCTIFIED_": "14 มิถุนายน 2566",
+        "SICK_DATE": "12 มิถุนายน 2566",
+        "FOUND_DATE": "13 มิถุนายน 2566",
+        "WBC": 4190,
+        "HCT": 40.8,
+        "PLT": 154000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "15 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.72230543,
+        "LON": 101.2399037,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2524871,
+          12.69237195
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "FIRST_NAME": "นายจักรพันธ์",
+        "LAST_NAME": "หงษ์ทองสกุล",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 29,
+        "TEL": "0911955614",
+        "NO_HOUSE": "99/88",
+        "ID_MOO": 3,
+        "MOO_NAMET": "บ้านหนองมะหาด",
+        "NOCTIFIED_": "15 มิถุนายน 2566",
+        "SICK_DATE": "13 มิถุนายน 2566",
+        "FOUND_DATE": "14 มิถุนายน 2566",
+        "WBC": 4100,
+        "HCT": 41.8,
+        "PLT": 262000,
+        "LY": 44,
+        "ATYP": " ",
+        "CONTROL_DA": "16 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.69237195,
+        "LON": 101.2524871,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2281383,
+          12.69403798
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "FIRST_NAME": "ด.ช.นันท์ภัส",
+        "LAST_NAME": "บำรุงจิตต์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 13,
+        "TEL": "0946122523",
+        "NO_HOUSE": "116/7",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "19 มิถุนายน 2566",
+        "SICK_DATE": "14 มิถุนายน 2566",
+        "FOUND_DATE": "18 มิถุนายน 2566",
+        "WBC": 2500,
+        "HCT": 43.2,
+        "PLT": 36000,
+        "LY": 13,
+        "ATYP": " ",
+        "CONTROL_DA": "19 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.69403798,
+        "LON": 101.2281383,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2270256,
+          12.72730739
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "FIRST_NAME": "นายไชยศิริ",
+        "LAST_NAME": "เกษมจิตต์",
+        "ID_CARD": 3219900162890,
+        "BORN": "31 ธันวาคม 2485",
+        "OLD": 80,
+        "TEL": "0818639597",
+        "NO_HOUSE": "55/2",
+        "ID_MOO": 8,
+        "MOO_NAMET": "บ้านสะพานหิน",
+        "NOCTIFIED_": "21 มิถุนายน 2566",
+        "SICK_DATE": "2 มิถุนายน 2566",
+        "FOUND_DATE": "2 มิถุนายน 2566",
+        "WBC": 3800,
+        "HCT": 42.8,
+        "PLT": 208000,
+        "LY": 7,
+        "ATYP": " ",
+        "CONTROL_DA": "23 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.72730739,
+        "LON": 101.2270256,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2399037,
+          12.72230543
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "FIRST_NAME": "น.ส.ณวินดา",
+        "LAST_NAME": "นามสนธิ์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 16,
+        "TEL": "0816165146",
+        "NO_HOUSE": "86/11",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "NOCTIFIED_": "29 มิถุนายน 2566",
+        "SICK_DATE": "2 มิถุนายน 2566",
+        "FOUND_DATE": "2 มิถุนายน 2566",
+        "WBC": 5200,
+        "HCT": 32.5,
+        "PLT": 72000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "29 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.72230543,
+        "LON": 101.2399037,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2399037,
+          12.72230543
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "FIRST_NAME": "นายณภัทรชนนท์",
+        "LAST_NAME": "นามสนธิ์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 18,
+        "TEL": "0816165146",
+        "NO_HOUSE": "86/11",
+        "ID_MOO": 7,
+        "MOO_NAMET": "บ้านเขาโบสถ์",
+        "NOCTIFIED_": "29 มิถุนายน 2566",
+        "SICK_DATE": "25 มิถุนายน 2566",
+        "FOUND_DATE": "26 มิถุนายน 2566",
+        "WBC": 3810,
+        "HCT": 38.2,
+        "PLT": 15300,
+        "LY": 12,
+        "ATYP": " ",
+        "CONTROL_DA": "29 มิถุนายน 2566",
+        "REMARK": " ",
+        "LAT": 12.72230543,
+        "LON": 101.2399037,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2102573,
+          12.73061529
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "FIRST_NAME": "นายกฤตติน",
+        "LAST_NAME": "พึ่งแพง",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 30,
+        "TEL": "0818220389",
+        "NO_HOUSE": "55/40",
+        "ID_MOO": 5,
+        "MOO_NAMET": "บ้านเขาไผ่",
+        "NOCTIFIED_": "16 เมษายน 2566",
+        "SICK_DATE": "12 เมษายน 2566",
+        "FOUND_DATE": "17 เมษายน 2566",
+        "WBC": 2800,
+        "HCT": 41.2,
+        "PLT": 59000,
+        "LY": 42,
+        "ATYP": 20,
+        "CONTROL_DA": "18 เมษายน 2566",
+        "REMARK": "ผู้ป่วยพบโรคจากพื้นที่กทม. และได้มารักษาตัวภายในพื้นที่จ.ระยอง เจ้าหน้าที่ได้ให้สุขศึกษาแก่ญาติผู้ป่วยในการป้องกันตนเองและพ่นหมอกควัน จำนวน 1 ครั้ง",
+        "LAT": 12.73061529,
+        "LON": 101.2102573,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2251328,
+          12.70648646
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "FIRST_NAME": "นายทรงเกียรติ",
+        "LAST_NAME": "ตาดทรัพย์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 39,
+        "TEL": "0619152228",
+        "NO_HOUSE": "78/5",
+        "ID_MOO": 6,
+        "MOO_NAMET": "บ้านหนองโพรง",
+        "NOCTIFIED_": "26 เมษายน 2566",
+        "SICK_DATE": "29 มีนาคม 2566",
+        "FOUND_DATE": "1 เมษายน 2566",
+        "WBC": 5850,
+        "HCT": 50.4,
+        "PLT": 172000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "26 เมษายน 2566",
+        "REMARK": " ",
+        "LAT": 12.70648646,
+        "LON": 101.2251328,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2034749,
+          12.73385129
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "FIRST_NAME": "นายณัฐพงค์",
+        "LAST_NAME": "หิรัญลักษณา",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 5,
+        "TEL": "0856982362",
+        "NO_HOUSE": "80/14",
+        "ID_MOO": 5,
+        "MOO_NAMET": "บ้านเขาไผ่",
+        "NOCTIFIED_": "4 กุมภาพันธ์ 2566",
+        "SICK_DATE": "1 กุมภาพันธ์ 2566",
+        "FOUND_DATE": "3 กุมภาพันธ์ 2566",
+        "WBC": 2057,
+        "HCT": 38.1,
+        "PLT": 108000,
+        "LY": 46,
+        "ATYP": " ",
+        "CONTROL_DA": "5 กุมภาพันธ์ 2566",
+        "REMARK": " ",
+        "LAT": 12.73385129,
+        "LON": 101.2034749,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2287961,
+          12.69479276
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "FIRST_NAME": "ด.ช.ศุภกร",
+        "LAST_NAME": "พรรัตนวิโรจน์",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 12,
+        "TEL": "0973293569",
+        "NO_HOUSE": "111/5",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "27 พฤษภาคม 2566",
+        "SICK_DATE": "22 พฤษภาคม 2566",
+        "FOUND_DATE": "25 พฤษภาคม 2566",
+        "WBC": 3640,
+        "HCT": 51,
+        "PLT": 14000,
+        "LY": 0,
+        "ATYP": " ",
+        "CONTROL_DA": "28 พฤษภาคม 2566",
+        "REMARK": " ",
+        "LAT": 12.69479276,
+        "LON": 101.2287961,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2289773,
+          12.69454183
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "FIRST_NAME": "ด.ช.กวิน",
+        "LAST_NAME": "อินต๊ะคำเครือ",
+        "ID_CARD": " ",
+        "BORN": " ",
+        "OLD": 10,
+        "TEL": "0897933837",
+        "NO_HOUSE": "1/12",
+        "ID_MOO": 2,
+        "MOO_NAMET": "บ้านแหลมมะขาม",
+        "NOCTIFIED_": "28 พฤษภาคม 2566",
+        "SICK_DATE": "25 พฤษภาคม 2566",
+        "FOUND_DATE": "28 พฤษภาคม 2566",
+        "WBC": 3640,
+        "HCT": 35.8,
+        "PLT": 189000,
+        "LY": 40,
+        "ATYP": " ",
+        "CONTROL_DA": "29 พฤษภาคม 2566",
+        "REMARK": " ",
+        "LAT": 12.69454183,
+        "LON": 101.2289773,
+        "MOD_DATE": "มิถุนายน 2566"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.204904,
+            12.710999999999999
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "NAME_TH": "ร้านเทพเทวี รับซื้อของเก่า",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": " ",
+          "MOO_TH": " ",
+          "LOCATION": " ",
+          "LAT": 12.711,
+          "LON": 101.204904
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.196434,
+            12.741818
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "NAME_TH": "ร่มเย็นรับซื้อของเก่า",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": 5,
+          "MOO_TH": "บ้านเขาไผ่",
+          "LOCATION": " ",
+          "LAT": 12.741818,
+          "LON": 101.196434
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.219875,
+            12.706460999999997
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "NAME_TH": "3 ส. นำโชครับซื้อของเก่า",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LOCATION": " ",
+          "LAT": 12.706461,
+          "LON": 101.219875
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.229294,
+            12.694901000000002
+          ]
+        },
+        "properties": {
+          "FID": 3,
+          "NAME_TH": "ร้านทองคำค้าของเก่า",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": 2,
+          "MOO_TH": "บ้านแหลมมะขาม",
+          "LOCATION": " ",
+          "LAT": 12.694901,
+          "LON": 101.229294
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.205174,
+            12.710925999999999
+          ]
+        },
+        "properties": {
+          "FID": 4,
+          "NAME_TH": "รับซื้อของเก่าบี.เอฟ ค้าของเก่า",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": " ",
+          "MOO_TH": " ",
+          "LOCATION": " ",
+          "LAT": 12.710926,
+          "LON": 101.205174
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24975,
+            12.699362000000002
+          ]
+        },
+        "properties": {
+          "FID": 5,
+          "NAME_TH": "ร้านซื้อของเก่า",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": " ",
+          "LAT": 12.699362,
+          "LON": 101.24975
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.224499,
+            12.741586
+          ]
+        },
+        "properties": {
+          "FID": 6,
+          "NAME_TH": "บริษัท ศักดิ์ทวีรีไซเคิล จำกัด",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": 7,
+          "MOO_TH": "บ้านเขาโบสถ์",
+          "LOCATION": " ",
+          "LAT": 12.741586,
+          "LON": 101.224499
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24984,
+            12.696861999999998
+          ]
+        },
+        "properties": {
+          "FID": 7,
+          "NAME_TH": "ดี ดี รีไซเคิล",
+          "NAME_EN": " ",
+          "OWNER": " ",
+          "MOO_ID": 3,
+          "MOO_TH": "บ้านหนองมะหาด",
+          "LOCATION": " ",
+          "LAT": 12.696862,
+          "LON": 101.24984
+        }
+      }
+    ]
+  }

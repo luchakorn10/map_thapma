@@ -1,0 +1,281 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.25001710000004,
+            12.713450000000023
+          ]
+        },
+        "properties": {
+          "FID": 0,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 1 ศาลาอเนกประสงค์",
+          "LAT": 12.7135,
+          "LON": 101.25
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.22850010000008,
+            12.693509900000038
+          ]
+        },
+        "properties": {
+          "FID": 1,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 2 สนามกีฬาหมู่ 2",
+          "LAT": 12.6935,
+          "LON": 101.2285
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.25416780000006,
+            12.695061700000053
+          ]
+        },
+        "properties": {
+          "FID": 2,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 3 ศาลาหนองมะหาด",
+          "LAT": 12.6951,
+          "LON": 101.2542
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24103700000006,
+            12.703876100000059
+          ]
+        },
+        "properties": {
+          "FID": 3,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 4 โรงพยาบาลส่งเสริมตำบลทับมา",
+          "LAT": 12.7039,
+          "LON": 101.241
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.24093600000003,
+            12.706120700000042
+          ]
+        },
+        "properties": {
+          "FID": 4,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 5 เทศบาลตำบลทับมา",
+          "LAT": 12.7061,
+          "LON": 101.2409
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23856230000007,
+            12.70564550000006
+          ]
+        },
+        "properties": {
+          "FID": 5,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 6 ศูนย์พัฒนาเด็กเล็กบ้านทับมา",
+          "LAT": 12.7056,
+          "LON": 101.2386
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.20167460000005,
+            12.727598700000044
+          ]
+        },
+        "properties": {
+          "FID": 6,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 7 ที่ทำการผู้ใหญ่หมู่ 5",
+          "LAT": 12.7276,
+          "LON": 101.2017
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23512800000003,
+            12.726745100000073
+          ]
+        },
+        "properties": {
+          "FID": 7,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 8 ศาลาหมู่ 7",
+          "LAT": 12.7267,
+          "LON": 101.2351
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.22038790000005,
+            12.726030200000025
+          ]
+        },
+        "properties": {
+          "FID": 8,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 9 คุ้มขยะยิ้ม หมู่ 8",
+          "LAT": 12.726,
+          "LON": 101.2204
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.22188750000004,
+            12.700967300000059
+          ]
+        },
+        "properties": {
+          "FID": 9,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 10 โรงเรียนประภัสสรคุณธรรม",
+          "LAT": 12.701,
+          "LON": 101.2219
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.23037260000007,
+            12.701464600000065
+          ]
+        },
+        "properties": {
+          "FID": 10,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 11 ที่ทำการผู้ใหญ่ หมู่ 6",
+          "LAT": 12.7015,
+          "LON": 101.2304
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.26179530000007,
+            12.689299800000072
+          ]
+        },
+        "properties": {
+          "FID": 11,
+          "NAME_TH": "จุดตั้งถังขยะติดเชื้อ",
+          "NAME_EN": " ",
+          "COUNT": 0,
+          "OWNER": " ",
+          "MOO_ID": 0,
+          "MOO_TH": " ",
+          "LOCATION": "จุด 12 หมู่บ้านกรุงไทย",
+          "LAT": 12.6893,
+          "LON": 101.2618
+        }
+      }
+    ]
+  }
